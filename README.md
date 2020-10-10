@@ -1,2 +1,0 @@
-# wrkspc
-configurations files
