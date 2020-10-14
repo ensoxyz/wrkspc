@@ -1,4 +1,4 @@
-#!
+#! /bin/zsh
 
 sudo apt purge 
 	account-plugin-facebook \
