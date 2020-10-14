@@ -1,20 +1,71 @@
 #!
- 
 sudo apt purge 
+	account-plugin-facebook \		#extra
+	account-plugin-flickr \			#extra
+	account-plugin-jabber \ 		#extra
+	account-plugin-salut \			#extra
+	account-plugin-twitter \ 		#extra
+	account-plugin-windows-live \ 		#extra
+	account-plugin-yahoo \			#extra
 	aptdaemon \                       	#extra
   	aptdaemon-data \                  	#extra
+	aisleriot \				#extra
 	cups-pk-helper \                  	#extra
+	duplicity \ 				#extra
+	empathy \				#extra
+	empathy-common \ 			#extra
+	example-content \			#extra
+	gnome-contacts gnome-mahjongg \ 	#extra
+	gnome-mines \				#extra
+	gnome-orca \				#extra
+	gnome-screensaver \ 			#extra
+	gnome-sudoku \				#extra
+	gnome-video-effects \			#extra 
+	gnomine \				#extra
+	landscape-common \			#extra
 	libgstreamer-plugins-good1.0-0 \  	#extra
 	libmpc3 \                         	#extra
   	libnfnetlink0 \                   	#extra
-  	libxcb-image0 \                   	#extra
+  	libreoffice-avmedia-backend-gstreamer \	#extra
+	libreoffice-base-core \			#extra
+	libreoffice-calc \			#extra
+	libreoffice-common \ 			#extra
+	libreoffice-core \			#extra
+	libreoffice-draw \			#extra
+	libreoffice-gnome \			#extra
+	libreoffice-gtk \			#extra
+	libreoffice-impress \ 			#extra
+	libreoffice-math \			#extra
+	libreoffice-ogltrans \ 			#extra
+	libreoffice-pdfimport \			#extra
+	libreoffice-style-galaxy \		#extra
+	libreoffice-style-human \		#extra
+	libreoffice-writer \			#extra
+	libxcb-image0 \                   	#extra
   	libxcb-keysyms1 \                 	#extra
   	libxcb-render-util0 \             	#extra
   	libxcb-util1 \                    	#extra
+	mcp-account-manager-uoa \ 		#extra
   	os-prober \                       	#extra
   	python3-aptdaemon \               	#extra
   	python3-aptdaemon.gtk3widgets \   	#extra
   	python3-defer \                   	#extra
+	python3-uno \				#extra
+	rhythmbox \				#extra
+	rhythmbox-plugins \			#extra
+	rhythmbox-plugin-zeitgeist \		#extra
   	session-migration	          	#extra
+	shotwell \				#extra
+	shotwell-common \			#extra
+	telepathy-gabble \			#extra
+	telepathy-haze \			#extra
+	telepathy-idle \			#extra
+	telepathy-indicator \ 			#extra
+	telepathy-logger \			#extra
+	telepathy-mission-control-5 \ 		#extra
+	telepathy-salut \			#extra
+	totem \					#extra
+	totem-common \ 				#extra
+	totem-plugins				#extra
 sudo apt autoremove
 
