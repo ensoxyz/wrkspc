@@ -4,11 +4,15 @@
 source blnkspc/blnkspc.sh
 # blnkspc______________________________.
 
+source toolbox/toolbox.sh
+# toolbox______________________________.
+
 source desktop/desktop.sh
 # desktop______________________________.
 
 source wrkbnch/wrkbnch.sh
 # wrkbnch______________________________.
 
-source toolbox/toolbox.sh
-# toolbox______________________________.
+source factory/factory.sh
+# factory______________________________.
+
