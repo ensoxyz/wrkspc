@@ -7,17 +7,13 @@
 # [6] | ?????            : 
 # [7] | ?????		 : 
 # [8] | ?????	         : 
-# [9] | ?????		 : 
+# [9] | ?????		 :
 
 
-# Statusline: monolith
-# URXVT / KITTY / ALACRITTY / ST
-# i3 / DWM / AWESOME / OPENBOX
-# POLYBAR / UBERSICHT / TDROP / LIGHTDM-MINI-GREETER
-# ROFI / WOFI / DMENU
-# MPD / MPC / MPV / NCMPCPP / CAVA / XAVA
-# NEOFETCH / PYWAL / SWAYLOCK / i3LOCK HTOP
-# ULTRALIST / TASKELL / DNOTE / NEOVIM
-
-
+nix-env -i xorg
+nix-env -i i3
+nix-env -i i3lock
+nix-env -i polybar
+nix-env -i rofi
+nix-env -i dunst
 

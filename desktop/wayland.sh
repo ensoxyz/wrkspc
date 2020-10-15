@@ -10,4 +10,7 @@
 # [9] | ?????		 : 
 
 
-
+nix-env -i wayalnd
+nix-env -i sway
+nix-env -i wofi
+nix-env -i moka

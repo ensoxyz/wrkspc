@@ -12,16 +12,22 @@ source tools/go/go.sh
 source tools/v/v.sh
 
 
+nix-env -i lua
+nix-env -i julia
+nix-env -i rust
+nix-env -i deno
+nix-env -i go
+nix-env -i v
 
-web servers / proxy
-httpd
-nginx
-fasthhtp
-haproxy
-cowboy
+nix-env -i nginx
+nix-env -i obhttpd
+nix-env -i haproxy
+nix-env -i fasthttp
 
-
-
+nix-env -i consul
+nix-env -i terraform
+nix-env -i nomad
+nix-env -i vault
 
 
 

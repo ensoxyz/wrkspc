@@ -10,14 +10,16 @@
 # [9] | ?????		 : 
 
 
-# Statusline: monolith
-# URXVT / KITTY / ALACRITTY / ST
-# i3 / DWM / AWESOME / OPENBOX
-# POLYBAR / UBERSICHT / TDROP / LIGHTDM-MINI-GREETER
-# ROFI / WOFI / DMENU
-# MPD / MPC / MPV / NCMPCPP / CAVA / XAVA
-# NEOFETCH / PYWAL / SWAYLOCK / i3LOCK HTOP
-# ULTRALIST / TASKELL / DNOTE / NEOVIM
+brew cask install yabai
+# 2
+brew cask install ubersicht
+# 3
+brew cask install 
+# 4
 
 
+source st.sh
+source urxvt.sh
+source kitty.sh
+source alacritty.sh
 
