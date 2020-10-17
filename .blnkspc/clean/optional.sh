@@ -1121,56 +1121,56 @@ sudo apt purge
 	#wireless-regdb \ 			#optional
 	#wireless-tools \ 			#optional
 	#wpasupplicant \ 			#optional
-	#x11-apps \ 				#optional
-	#x11-common \ 				#optional
-	#x11-session-utils \ 			#optional
-	#x11-utils \ 				#optional
-	#x11-xkb-utils \ 			#optional
-	#x11-xserver-utils \ 			#optional
-	#xauth \ 				#optional
-	#xbitmaps \ 				#optional
-	#xbrlapi \ 				#optional
-	#xcursor-themes \ 			#optional
+	x11-apps \ 				#optional
+	x11-common \ 				#optional
+	x11-session-utils \ 			#optional
+	x11-utils \ 				#optional
+	x11-xkb-utils \ 			#optional
+	x11-xserver-utils \ 			#optional
+	xauth \ 				#optional
+	xbitmaps \ 				#optional
+	xbrlapi \ 				#optional
+	xcursor-themes \ 			#optional
 	#xdg-dbus-proxy \ 			#optional
 	#xdg-desktop-portal \ 			#optional
 	#xdg-desktop-portal-gtk \ 		#optional
 	#xdg-user-dirs-gtk \ 			#optional
 	#xdg-utils \ 				#optional
-	#xfonts-base \ 				#optional
-	#xfonts-encodings \ 			#optional
-	#xfonts-scalable \ 			#optional
-	#xfonts-utils \ 			#optional
-	#xinit \ 				#optional
-	#xinput \ 				#optional
+	xfonts-base \ 				#optional
+	xfonts-encodings \ 			#optional
+	xfonts-scalable \ 			#optional
+	xfonts-utils \ 				#optional
+	xinit \ 				#optional
+	xinput \ 				#optional
 	#xml-core \ 				#optional
-	#xorg \ 				#optional
-	#xorg-docs-core \ 			#optional
-	#xserver-common \ 			#optional
-	#xserver-xephyr \ 			#optional
-	#xserver-xorg \ 			#optional
-	#xserver-xorg-core \ 			#optional
-	#xserver-xorg-input-all \ 		#optional
-	#xserver-xorg-input-libinput \ 		#optional
-	#xserver-xorg-input-wacom \ 		#optional
-	#xserver-xorg-legacy \ 			#optional
-	#xserver-xorg-video-all \ 		#optional
-	#xserver-xorg-video-amdgpu \ 		#optional
-	#xserver-xorg-video-ati \ 		#optional
-	#xserver-xorg-video-fbdev \ 		#optional
-	#xserver-xorg-video-intel \ 		#optional
-	#xserver-xorg-video-nouveau \ 		#optional
-	#xserver-xorg-video-qxl \ 		#optional
-	#xserver-xorg-video-radeon \ 		#optional
-	#xserver-xorg-video-vesa \ 		#optional
-	#xserver-xorg-video-vmware \ 		#optional
-	#xul-ext-ubufox \ 			#optional
+	xorg \ 					#optional
+	xorg-docs-core \ 			#optional
+	xserver-common \ 			#optional
+	xserver-xephyr \ 			#optional
+	xserver-xorg \ 				#optional
+	xserver-xorg-core \ 			#optional
+	xserver-xorg-input-all \ 		#optional
+	xserver-xorg-input-libinput \ 		#optional
+	xserver-xorg-input-wacom \ 		#optional
+	xserver-xorg-legacy \ 			#optional
+	xserver-xorg-video-all \ 		#optional
+	xserver-xorg-video-amdgpu \ 		#optional
+	xserver-xorg-video-ati \ 		#optional
+	xserver-xorg-video-fbdev \ 		#optional
+	xserver-xorg-video-intel \ 		#optional
+	xserver-xorg-video-nouveau \ 		#optional
+	xserver-xorg-video-qxl \ 		#optional
+	xserver-xorg-video-radeon \ 		#optional
+	xserver-xorg-video-vesa \ 		#optional
+	xserver-xorg-video-vmware \ 		#optional
+	xul-ext-ubufox \ 			#optional
 	#xwayland \ 				#optional
-	#yaru-theme-gnome-shell \ 		#optional
-	#yaru-theme-gtk \ 			#optional
-	#yaru-theme-icon \ 			#optional
-	#yaru-theme-sound \ 			#optional
-	#yelp \ 				#optional
-	#yelp-xsl \ 				#optional
+	yaru-theme-gnome-shell \ 		#optional
+	yaru-theme-gtk \ 			#optional
+	yaru-theme-icon \ 			#optional
+	yaru-theme-sound \ 			#optional
+	yelp \ 					#optional
+	yelp-xsl \ 				#optional
 	#zenity \ 				#optional
 	#zenity-common \ 			#optional
 	#zfs-initramfs \ 			#optional

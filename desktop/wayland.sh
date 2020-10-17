@@ -9,8 +9,11 @@
 # [8] | ?????	         : 
 # [9] | ?????		 : 
 
-
-nix-env -i wayalnd
-nix-env -i sway
-nix-env -i wofi
-nix-env -i moka
+apt install sway
+apt install swaylock
+apt install sway-backgrounds
+apt install swaybg
+apt install swayidle
+apt install waybar
+apt install wdisplays
+apt install wofi
