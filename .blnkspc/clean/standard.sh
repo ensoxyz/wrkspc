@@ -1,5 +1,5 @@
 #sap amd64-microcode  	
-#sap bash-completion  	
+sap bash-completion  	
 #sap bc  			
 #sap bind9-dnsutils  	
 #sap bind9-host  		
@@ -13,7 +13,7 @@
 #sap libsasl2-2  		
 #sap libsasl2-modules-db  	
 #sap lsof  		
-#sap manpages  		
+sap manpages  		
 #sap openssh-client  	
 #sap pciutils  		
 #sap perl  		

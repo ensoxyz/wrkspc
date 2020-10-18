@@ -93,7 +93,7 @@
 #sap lsb-release              	
 #sap man-db                   	
 #sap mime-support             	
-sap nano                     	
+#sap nano                     	
 #sap netbase                  	
 #sap netcat-openbsd           	
 #sap netplan.io               	
@@ -120,13 +120,13 @@ sap nano
 #sap systemd-sysv             	
 #sap systemd-timesyncd        	
 #sap tzdata                   	
-sap ubuntu-advantage-tools   	
+#sap ubuntu-advantage-tools   	
 #sap ubuntu-keyring           	
 #sap ubuntu-minimal           	
 #sap ucf                      	
 #sap udev                     	
-sap vim-common               	
-sap vim-tiny                 	
+#sap vim-common               	
+#sap vim-tiny                 	
 #sap whiptail                 	
 #sap xdg-user-dirs            	
 #sap xkb-data                 	
