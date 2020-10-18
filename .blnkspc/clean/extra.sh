@@ -1,67 +1,67 @@
-sap 	account-plugin-facebook \		#extra
-sap 	account-plugin-flickr \			#extra
-sap 	account-plugin-jabber \ 		#extra
-sap 	account-plugin-salut \			#extra
-sap 	account-plugin-twitter \ 		#extra
-sap 	account-plugin-windows-live \ 		#extra
-sap 	account-plugin-yahoo \			#extra
-sap 	aptdaemon \                       	#extra
-sap   	aptdaemon-data \                  	#extra
-sap 	aisleriot \				#extra
-sap 	cups-pk-helper \                  	#extra
-sap 	duplicity \ 				#extra
-sap 	empathy \				#extra
-sap 	empathy-common \ 			#extra
-sap 	example-content \			#extra
-sap 	gnome-contacts gnome-mahjongg \ 	#extra
-sap 	gnome-mines \				#extra
-sap 	gnome-orca \				#extra
-sap 	gnome-screensaver \ 			#extra
-sap 	gnome-sudoku \				#extra
-sap 	gnome-video-effects \			#extra 
-sap 	gnomine \				#extra
-sap 	landscape-common \			#extra
-sap 	libgstreamer-plugins-good1.0-0 \  	#extra
-sap 	libmpc3 \                         	#extra
-sap   	libnfnetlink0 \                   	#extra
-sap   	libreoffice-avmedia-backend-gstreamer \	#extra
-sap 	libreoffice-base-core \			#extra
-sap 	libreoffice-calc \			#extra
-sap 	libreoffice-common \ 			#extra
-sap 	libreoffice-core \			#extra
-sap 	libreoffice-draw \			#extra
-sap 	libreoffice-gnome \			#extra
-sap 	libreoffice-gtk \			#extra
-sap 	libreoffice-impress \ 			#extra
-sap 	libreoffice-math \			#extra
-sap 	libreoffice-ogltrans \ 			#extra
-sap 	libreoffice-pdfimport \			#extra
-sap 	libreoffice-style-galaxy \		#extra
-sap 	libreoffice-style-human \		#extra
-sap 	libreoffice-writer \			#extra
-sap 	libxcb-image0 \                   	#extra
-sap   	libxcb-keysyms1 \                 	#extra
-sap   	libxcb-render-util0 \             	#extra
-sap   	libxcb-util1 \                    	#extra
-sap 	mcp-account-manager-uoa \ 		#extra
-sap   	os-prober \                       	#extra
-sap   	python3-aptdaemon \               	#extra
-sap   	python3-aptdaemon.gtk3widgets \   	#extra
-sap   	python3-defer \                   	#extra
-sap 	python3-uno \				#extra
-sap 	rhythmbox \				#extra
-sap 	rhythmbox-plugins \			#extra
-sap 	rhythmbox-plugin-zeitgeist \		#extra
-sap   	session-migration	          	#extra
-sap 	shotwell \				#extra
-sap 	shotwell-common \			#extra
-sap 	telepathy-gabble \			#extra
-sap 	telepathy-haze \			#extra
-sap 	telepathy-idle \			#extra
-sap 	telepathy-indicator \ 			#extra
-sap 	telepathy-logger \			#extra
-sap 	telepathy-mission-control-5 \ 		#extra
-sap 	telepathy-salut \			#extra
-sap 	totem \					#extra
-sap 	totem-common \ 				#extra
-sap 	totem-plugins				#extra
+sap account-plugin-facebook 		
+sap account-plugin-flickr 			
+sap account-plugin-jabber  		
+sap account-plugin-salut 			
+sap account-plugin-twitter  		
+sap account-plugin-windows-live  		
+sap account-plugin-yahoo 			
+sap aptdaemon                        	
+sap aptdaemon-data                   	
+sap aisleriot 				
+sap cups-pk-helper                   	
+sap duplicity  				
+sap empathy 				
+sap empathy-common  			
+sap example-content 			
+sap gnome-contacts gnome-mahjongg  	
+sap gnome-mines 				
+sap gnome-orca 				
+sap gnome-screensaver  			
+sap gnome-sudoku 				
+sap gnome-video-effects 			 
+sap gnomine 				
+sap landscape-common 			
+sap libgstreamer-plugins-good1.0-0   	
+sap libmpc3                          	
+sap libnfnetlink0                    	
+sap libreoffice-avmedia-backend-gstreamer 	
+sap libreoffice-base-core 			
+sap libreoffice-calc 			
+sap libreoffice-common  			
+sap libreoffice-core 			
+sap libreoffice-draw 			
+sap libreoffice-gnome 			
+sap libreoffice-gtk 			
+sap libreoffice-impress  			
+sap libreoffice-math 			
+sap libreoffice-ogltrans  			
+sap libreoffice-pdfimport 			
+sap libreoffice-style-galaxy 		
+sap libreoffice-style-human 		
+sap libreoffice-writer 			
+sap libxcb-image0                    	
+sap libxcb-keysyms1                  	
+sap libxcb-render-util0              	
+sap libxcb-util1                     	
+sap mcp-account-manager-uoa  		
+sap os-prober                        	
+sap python3-aptdaemon                	
+sap python3-aptdaemon.gtk3widgets    	
+sap python3-defer                    	
+sap python3-uno 				
+sap rhythmbox 				
+sap rhythmbox-plugins 			
+sap rhythmbox-plugin-zeitgeist 		
+sap session-migration	          	
+sap shotwell 				
+sap shotwell-common 			
+sap telepathy-gabble 			
+sap telepathy-haze 			
+sap telepathy-idle 			
+sap telepathy-indicator  			
+sap telepathy-logger 			
+sap telepathy-mission-control-5  		
+sap telepathy-salut 			
+sap totem 					
+sap totem-common  				
+sap totem-plugins				

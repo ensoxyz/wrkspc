@@ -1,1177 +1,1177 @@
-sap 	#accountsservice \			#optional
-sap 	#acl \ 					#optional
-sap 	#acpid \ 				#optional
-sap 	#acpi-support \ 			#optional
-sap 	adwaita-icon-theme \ 			#optional
-sap 	#alsa-base \ 				#optional
-sap 	#alsa-topology-conf \ 			#optional
-sap 	#alsa-ucm-conf \ 			#optional
-sap 	#alsa-utils \ 				#optional
-sap 	#anacron \ 				#optional
-sap 	#apg \ 					#optional
-sap 	#apparmor \ 				#optional
-sap 	#app-install-data-partner \ 		#optional
-sap 	#apport \ 				#optional
-sap 	#apport-gtk \ 				#optional
-sap 	#apport-symptoms \ 			#optional
-sap 	#appstream \ 				#optional
-sap 	#apt-config-icons \ 			#optional
-sap 	#apt-config-icons-hidpi \ 		#optional
-sap 	#apturl \ 				#optional
-sap 	#apturl-common \ 			#optional
-sap 	#aspell \ 				#optional
-sap 	#aspell-en \ 				#optional
-sap 	#at-spi2-core \ 		     	#optional
-sap 	#avahi-autoipd \ 			#optional
-sap 	#avahi-daemon \ 			#optional
-sap 	#avahi-utils \ 				#optional
-sap 	#bluez \ 				#optional
-sap 	#bluez-cups \ 				#optional
-sap 	#bluez-obexd \ 				#optional
-sap 	#bolt \ 				#optional
-sap 	brltty \ 				#optional
-sap 	#bubblewrap \ 				#optional
-sap 	#busybox-initramfs \ 			#optional
-sap 	#busybox-static \ 			#optional
-sap 	#cheese-common \ 			#optional
-sap 	#colord \ 				#optional
-sap 	#colord-data \ 				#optional
-sap 	#command-not-found \ 			#optional
-sap 	#cpp \ 					#optional
-sap 	#cpp-9 \ 				#optional
-sap 	#cracklib-runtime \ 			#optional
-sap 	#crda \ 				#optional
-sap 	#cups \ 				#optional
-sap 	#cups-browsed \ 			#optional
-sap 	#cups-bsd \ 				#optional
-sap 	#cups-client \ 				#optional
-sap 	#cups-common \ 				#optional
-sap 	#cups-core-drivers \ 			#optional
-sap 	#cups-daemon \ 				#optional
-sap 	#cups-filters \ 			#optional
-sap 	#cups-filters-core-drivers \ 		#optional
-sap 	#cups-ipp-utils \ 			#optional
-sap 	#cups-ppdc \ 				#optional
-sap 	#cups-server-common \ 			#optional
-sap 	#dbus-user-session \ 			#optional
-sap 	#dbus-x11 \ 				#optional
-sap 	#dconf-cli \ 				#optional
-sap 	#dconf-gsettings-backend \ 		#optional
-sap 	#dconf-service \ 			#optional
-sap 	#desktop-file-utils \ 			#optional
-sap 	#dictionaries-common \ 			#optional
-sap 	#dirmngr \ 				#optional
-sap 	#dmz-cursor-theme \ 			#optional
-sap 	#dnsmasq-base \ 			#optional
-sap 	#dns-root-data \ 			#optional
-sap 	#docbook-xml \ 				#optional
-sap 	#dosfstools \ 				#optional
-sap 	#ed \ 					#optional
-sap 	#efibootmgr \ 				#optional
-sap 	#emacsen-common \ 			#optional
-sap 	#enchant-2 \ 				#optional
-sap 	#eog \ 					#optional
-sap 	#espeak-ng-data \ 			#optional
-sap 	#evince \ 				#optional
-sap 	#evince-common \ 			#optional
-sap 	#evolution-data-server \ 		#optional
-sap 	#evolution-data-server-common \ 	#optional
-sap 	#file-roller \ 				#optional
-sap 	firefox \ 				#optional
-sap 	firefox-locale-en \ 			#optional
-sap 	#fontconfig \ 				#optional
-sap 	#fontconfig-config \ 			#optional
-sap 	fonts-beng \ 				#optional
-sap 	fonts-beng-extra \ 			#optional
-sap 	#fonts-dejavu-core \ 			#optional
-sap 	fonts-deva \ 				#optional
-sap 	fonts-deva-extra \ 			#optional
-sap 	#fonts-droid-fallback \ 		#optional
-sap 	fonts-freefont-ttf \ 			#optional
-sap 	fonts-gargi \ 				#optional
-sap 	fonts-gubbi \ 				#optional
-sap 	fonts-gujr \ 				#optional
-sap 	fonts-gujr-extra \ 			#optional
-sap 	fonts-guru \ 				#optional
-sap 	fonts-guru-extra \ 			#optional
-sap 	fonts-indic \ 				#optional
-sap 	fonts-kacst \ 				#optional
-sap 	fonts-kacst-one \ 			#optional
-sap 	fonts-kalapi \ 				#optional
-sap 	fonts-khmeros-core \ 			#optional
-sap 	fonts-knda \ 				#optional
-sap 	fonts-lao \ 				#optional
-sap 	fonts-liberation \ 			#optional
-sap 	fonts-liberation2 \ 			#optional
-sap 	fonts-lklug-sinhala \ 			#optional
-sap 	fonts-lohit-beng-assamese \ 		#optional
-sap 	fonts-lohit-beng-bengali \ 		#optional
-sap 	fonts-lohit-deva \ 			#optional
-sap 	fonts-lohit-gujr \ 			#optional
-sap 	fonts-lohit-guru \ 			#optional
-sap 	fonts-lohit-knda \ 			#optional
-sap 	fonts-lohit-mlym \ 			#optional
-sap 	fonts-lohit-orya \ 			#optional
-sap 	fonts-lohit-taml \ 			#optional
-sap 	fonts-lohit-taml-classical \ 		#optional
-sap 	fonts-lohit-telu \ 			#optional
-sap 	fonts-mlym \ 				#optional
-sap 	fonts-nakula \				#optional
-sap 	fonts-navilu \ 				#optional
-sap 	fonts-noto-cjk \ 			#optional
-sap 	fonts-noto-color-emoji \ 		#optional
-sap 	#fonts-noto-mono \ 			#optional
-sap 	fonts-opensymbol \ 			#optional
-sap 	fonts-orya \ 				#optional
-sap 	fonts-orya-extra \ 			#optional
-sap 	fonts-pagul \ 				#optional
-sap 	fonts-sahadeva \ 			#optional
-sap 	fonts-samyak-deva \ 			#optional
-sap 	fonts-samyak-gujr \ 			#optional
-sap 	fonts-samyak-mlym \ 			#optional
-sap 	fonts-samyak-taml \ 			#optional
-sap 	fonts-sarai \ 				#optional
-sap 	fonts-sil-abyssinica \ 			#optional
-sap 	fonts-sil-padauk \ 			#optional
-sap 	fonts-smc \ 				#optional
-sap 	fonts-smc-anjalioldlipi \ 		#optional
-sap 	fonts-smc-chilanka \ 			#optional
-sap 	fonts-smc-dyuthi \ 			#optional
-sap 	fonts-smc-gayathri \ 			#optional
-sap 	fonts-smc-karumbi \ 			#optional
-sap 	fonts-smc-keraleeyam \ 			#optional
-sap 	fonts-smc-manjari \ 			#optional
-sap 	fonts-smc-meera \ 			#optional
-sap 	fonts-smc-rachana \ 			#optional
-sap 	fonts-smc-raghumalayalamsans \ 		#optional
-sap 	fonts-smc-suruma \ 			#optional
-sap 	fonts-smc-uroob \ 			#optional
-sap 	fonts-taml \ 				#optional
-sap 	fonts-telu \ 				#optional
-sap 	fonts-telu-extra \ 			#optional
-sap 	fonts-thai-tlwg \ 			#optional
-sap 	fonts-tibetan-machine \ 		#optional
-sap 	fonts-tlwg-garuda \ 			#optional
-sap 	fonts-tlwg-garuda-ttf \ 		#optional
-sap 	fonts-tlwg-kinnari \ 			#optional
-sap 	fonts-tlwg-kinnari-ttf \ 		#optional
-sap 	fonts-tlwg-laksaman \ 			#optional
-sap 	fonts-tlwg-laksaman-ttf \ 		#optional
-sap 	fonts-tlwg-loma \ 			#optional
-sap 	fonts-tlwg-loma-ttf \ 			#optional
-sap 	fonts-tlwg-mono \ 			#optional
-sap 	fonts-tlwg-mono-ttf \ 			#optional
-sap 	fonts-tlwg-norasi \ 			#optional
-sap 	fonts-tlwg-norasi-ttf \ 		#optional
-sap 	fonts-tlwg-purisa \ 			#optional
-sap 	fonts-tlwg-purisa-ttf \ 		#optional
-sap 	fonts-tlwg-sawasdee \ 			#optional
-sap 	fonts-tlwg-sawasdee-ttf \ 		#optional
-sap 	fonts-tlwg-typewriter \ 		#optional
-sap 	fonts-tlwg-typewriter-ttf \ 		#optional
-sap 	fonts-tlwg-typist \ 			#optional
-sap 	fonts-tlwg-typist-ttf \ 		#optional
-sap 	fonts-tlwg-typo \ 			#optional
-sap 	fonts-tlwg-typo-ttf \ 			#optional
-sap 	fonts-tlwg-umpush \ 			#optional
-sap 	fonts-tlwg-umpush-ttf \ 		#optional
-sap 	fonts-tlwg-waree \ 			#optional
-sap 	fonts-tlwg-waree-ttf \ 			#optional
-sap 	fonts-ubuntu \ 				#optional
-sap 	fonts-urw-base35 \ 			#optional
-sap 	fonts-yrsa-rasa \ 			#optional
-sap 	#foomatic-db-compressed-ppds \ 		#optional
-sap 	#fprintd \ 				#optional
-sap 	#friendly-recovery \ 			#optional
-sap 	#fuse \ 				#optional
-sap 	#fwupd \ 				#optional
-sap 	#fwupd-signed \ 			#optional
-sap 	gamemode \ 				#optional
-sap 	#gcr \ 					#optional
-sap 	#gdb \ 					#optional
-sap 	#gdbserver \ 				#optional
-sap 	#gdisk \ 				#optional
-sap 	#gdm3 \ 				#optional
-sap 	gedit \ 				#optional
-sap 	gedit-common \ 				#optional
-sap 	#genisoimage \ 				#optional
-sap 	#geoclue-2.0 \ 				#optional
-sap 	#ghostscript \ 				#optional
-sap 	#ghostscript-x \ 			#optional
-sap 	#gir1.2-accountsservice-1.0 \ 		#optional
-sap 	#gir1.2-atk-1.0 \ 			#optional
-sap 	#gir1.2-atspi-2.0 \ 			#optional
-sap 	#gir1.2-dbusmenu-glib-0.4 \ 		#optional
-sap 	#gir1.2-dee-1.0 \ 			#optional
-sap 	#gir1.2-freedesktop \ 			#optional
-sap 	#gir1.2-gck-1 \ 			#optional
-sap 	#gir1.2-gcr-3 \ 			#optional
-sap 	#gir1.2-gdesktopenums-3.0 \ 		#optional
-sap 	#gir1.2-gdkpixbuf-2.0 \ 		#optional
-sap 	#gir1.2-gdm-1.0 \ 			#optional
-sap 	#gir1.2-geoclue-2.0 \ 			#optional
-sap 	#gir1.2-gmenu-3.0 \ 			#optional
-sap 	#gir1.2-gnomebluetooth-1.0 \ 		#optional
-sap 	#gir1.2-gnomedesktop-3.0 \ 		#optional
-sap 	#gir1.2-goa-1.0 \ 			#optional
-sap 	#gir1.2-graphene-1.0 \ 			#optional
-sap 	#gir1.2-gstreamer-1.0 \ 		#optional
-sap 	#gir1.2-gtk-3.0 \ 			#optional
-sap 	#gir1.2-gtksource-4 \ 			#optional
-sap 	#gir1.2-gweather-3.0 \ 			#optional
-sap 	#gir1.2-ibus-1.0 \ 			#optional
-sap 	#gir1.2-javascriptcoregtk-4.0 \ 	#optional
-sap 	#gir1.2-json-1.0 \ 			#optional
-sap 	#gir1.2-mutter-6 \ 			#optional
-sap 	#gir1.2-nm-1.0 \ 			#optional
-sap 	#gir1.2-nma-1.0 \ 			#optional
-sap 	#gir1.2-notify-0.7 \ 			#optional
-sap 	#gir1.2-packagekitglib-1.0 \ 		#optional
-sap 	#gir1.2-pango-1.0 \			#optional
-sap 	#gir1.2-peas-1.0 \ 			#optional
-sap 	#gir1.2-polkit-1.0 \ 			#optional
-sap 	#gir1.2-rsvg-2.0 \ 			#optional
-sap 	#gir1.2-secret-1 \ 			#optional
-sap 	#gir1.2-snapd-1 \ 			#optional
-sap 	#gir1.2-soup-2.4 \ 			#optional
-sap 	#gir1.2-unity-5.0 \ 			#optional
-sap 	#gir1.2-upowerglib-1.0 \ 		#optional
-sap 	#gir1.2-vte-2.91 \ 			#optional
-sap 	#gir1.2-webkit2-4.0 \ 			#optional
-sap 	#gir1.2-wnck-3.0 \ 			#optional
-sap 	git \ 					#optional
-sap 	git-man \ 				#optional
-sap 	#gjs \ 					#optional
-sap 	#gkbd-capplet \ 			#optional
-sap 	#glib-networking \ 			#optional
-sap 	#glib-networking-common \ 		#optional
-sap 	#glib-networking-services \ 		#optional
-sap 	gnome-accessibility-themes \ 		#optional
-sap 	gnome-bluetooth \ 			#optional
-sap 	gnome-calculator \ 			#optional
-sap 	gnome-characters \ 			#optional
-sap 	gnome-control-center \ 			#optional
-sap 	gnome-control-center-data \ 		#optional
-sap 	gnome-control-center-faces \ 		#optional
-sap 	gnome-desktop3-data \ 			#optional
-sap 	gnome-disk-utility \ 			#optional
-sap 	gnome-font-viewer \ 			#optional
-sap 	gnome-getting-started-docs \ 		#optional
-sap 	gnome-initial-setup \ 			#optional
-sap 	gnome-keyring \ 			#optional
-sap 	gnome-keyring-pkcs11 \ 			#optional
-sap 	gnome-logs \ 				#optional
-sap 	gnome-menus \ 				#optional
-sap 	gnome-online-accounts \ 		#optional
-sap 	gnome-power-manager \ 			#optional
-sap 	gnome-screenshot \ 			#optional
-sap 	gnome-session-bin \ 			#optional
-sap 	gnome-session-canberra \ 		#optional
-sap 	gnome-session-common \ 			#optional
-sap 	gnome-settings-daemon \ 		#optional
-sap 	gnome-settings-daemon-common \ 		#optional
-sap 	gnome-shell \ 				#optional
-sap 	gnome-shell-common \ 			#optional
-sap 	gnome-shell-extension-appindicator \ 	#optional
-sap 	gnome-shell-extension-desktop-icons \	#optional
-sap 	gnome-shell-extension-ubuntu-dock \ 	#optional
-sap 	gnome-startup-applications \ 		#optional
-sap 	gnome-system-monitor \ 			#optional
-sap 	gnome-terminal \ 			#optional
-sap 	gnome-terminal-data \ 			#optional
-sap 	gnome-themes-extra \ 			#optional
-sap 	gnome-themes-extra-data \ 		#optional
-sap 	gnome-user-docs \ 			#optional
-sap 	#gnupg \ 				#optional
-sap 	#gnupg-l10n \ 				#optional
-sap 	#gnupg-utils \ 				#optional
-sap 	#gpg \ 					#optional
-sap 	#gpg-agent \ 				#optional
-sap 	#gpgconf \ 				#optional
-sap 	#gpgsm \ 				#optional
-sap 	#gpg-wks-client \ 			#optional
-sap 	#gpg-wks-server \ 			#optional
-sap 	#grub2-common \ 			#optional
-sap 	#grub-common \ 				#optional
-sap 	#grub-efi-amd64-bin \ 			#optional
-sap 	#grub-efi-amd64-signed \ 		#optional
-sap 	#grub-gfxpayload-lists \ 		#optional
-sap 	#grub-pc \ 				#optional
-sap 	#grub-pc-bin \ 				#optional
-sap 	#gsettings-desktop-schemas \ 		#optional
-sap 	#gsettings-ubuntu-schemas \ 		#optional
-sap 	#gstreamer1.0-alsa \ 			#optional
-sap 	#gstreamer1.0-clutter-3.0 \ 		#optional
-sap 	#gstreamer1.0-gl \ 			#optional
-sap 	#gstreamer1.0-packagekit \ 		#optional
-sap 	#gstreamer1.0-plugins-base \ 		#optional
-sap 	#gstreamer1.0-plugins-base-apps \ 	#optional
-sap 	#gstreamer1.0-plugins-good \ 		#optional
-sap 	#gstreamer1.0-pulseaudio \ 		#optional
-sap 	#gstreamer1.0-tools \ 			#optional
-sap 	#gstreamer1.0-x \ 			#optional
-sap 	#gtk2-engines-murrine \ 		#optional
-sap 	#gtk2-engines-pixbuf \ 			#optional
-sap 	#gtk-update-icon-cache \ 		#optional
-sap 	#gvfs \ 				#optional
-sap 	#gvfs-backends \ 			#optional
-sap 	#gvfs-bin \ 				#optional
-sap 	#gvfs-common \ 				#optional
-sap 	#gvfs-daemons \ 			#optional
-sap 	#gvfs-fuse \ 				#optional
-sap 	#gvfs-libs \ 				#optional
-sap 	#hdparm \ 				#optional
-sap 	#hicolor-icon-theme \ 			#optional
-sap 	#humanity-icon-theme \ 			#optional
-sap 	#ibus \ 				#optional
-sap 	#ibus-data \ 				#optional
-sap 	#ibus-gtk \ 				#optional
-sap 	#ibus-gtk3 \ 				#optional
-sap 	#ibus-table \ 				#optional
-sap 	#iio-sensor-proxy \ 			#optional
-sap 	#im-config \ 				#optional
-sap 	#initramfs-tools \ 			#optional
-sap 	#initramfs-tools-bin \ 			#optional
-sap 	#initramfs-tools-core \ 		#optional
-sap 	#inputattach \ 				#optional
-sap 	#ippusbxd \ 				#optional
-sap 	#iptables \ 				#optional
-sap 	#iputils-tracepath \ 			#optional
-sap 	#irqbalance \ 				#optional
-sap 	#iso-codes \ 				#optional
-sap 	#iucode-tool \ 				#optional
-sap 	#iw \ 					#optional
-sap 	#kerneloops \ 				#optional
-sap 	#klibc-utils \ 				#optional
-sap 	#krb5-locales \ 			#optional
-sap 	#language-pack-en \ 			#optional
-sap 	#language-pack-en-base \ 		#optional
-sap 	#language-pack-gnome-en \ 		#optional
-sap 	#language-pack-gnome-en-base \ 		#optional
-sap 	#language-selector-common \ 		#optional
-sap 	#language-selector-gnome \ 		#optional
-sap 	#laptop-detect \ 			#optional
-sap 	#libaa1 \ 				#optional
-sap 	#libaccountsservice0 \ 			#optional
-sap 	#libamtk-5-0 \ 				#optional
-sap 	#libamtk-5-common \ 			#optional
-sap 	#libao4 \ 				#optional
-sap 	#libao-common \ 			#optional
-sap 	#libappindicator3-1 \ 			#optional
-sap 	#libappstream4 \ 			#optional
-sap 	#libarchive13 \ 			#optional
-sap 	#libasn1-8-heimdal \ 			#optional
-sap 	#libasound2 \ 				#optional
-sap 	#libasound2-data \ 			#optional
-sap 	#libasound2-plugins \ 			#optional
-sap 	#libaspell15 \ 				#optional
-sap 	#libassuan0 \ 				#optional
-sap 	#libasyncns0 \ 				#optional
-sap 	#libatasmart4 \ 			#optional
-sap 	#libatk1.0-0 \ 				#optional
-sap 	#libatk1.0-data \ 			#optional
-sap 	#libatk-adaptor \ 			#optional
-sap 	#libatk-bridge2.0-0 \ 			#optional
-sap 	#libatkmm-1.6-1v5 \ 			#optional
-sap 	#libatopology2 \ 			#optional
-sap 	#libatspi2.0-0 \ 			#optional
-sap 	#libauthen-sasl-perl \ 			#optional
-sap 	#libavahi-client3 \ 			#optional
-sap 	#libavahi-common3 \ 			#optional
-sap 	#libavahi-common-data \ 		#optional
-sap 	#libavahi-core7 \ 			#optional
-sap 	#libavahi-glib1 \ 			#optional
-sap 	#libavc1394-0 \ 			#optional
-sap 	#libbabeltrace1 \ 			#optional
-sap 	#libblockdev2 \ 			#optional
-sap 	#libblockdev-crypto2 \ 			#optional
-sap 	#libblockdev-fs2 \ 			#optional
-sap 	#libblockdev-loop2 \ 			#optional
-sap 	#libblockdev-part2 \ 			#optional
-sap 	#libblockdev-part-err2 \ 		#optional
-sap 	#libblockdev-swap2 \ 			#optional
-sap 	#libblockdev-utils2 \ 			#optional
-sap 	#libbluetooth3 \ 			#optional
-sap 	#libboost-thread1.71.0 \ 		#optional
-sap 	#libbrlapi0.7 \ 			#optional
-sap 	#libbrotli1 \ 				#optional
-sap 	#libc6-dbg \ 				#optional
-sap 	#libcaca0 \ 				#optional
-sap 	#libcairo2 \ 				#optional
-sap 	#libcairo-gobject2 \ 			#optional
-sap 	#libcairo-gobject-perl \ 		#optional
-sap 	#libcairomm-1.0-1v5 \ 			#optional
-sap 	#libcairo-perl \ 			#optional
-sap 	#libcamel-1.2-62 \ 			#optional
-sap 	#libcanberra0 \ 			#optional
-sap 	#libcanberra-gtk3-0 \             	#optional
-sap 	#libcanberra-gtk3-module \ 		#optional
-sap 	#libcanberra-pulse \ 			#optional
-sap 	#libcbor0.6 \ 				#optional
-sap 	#libcc1-0 \ 				#optional
-sap 	#libcdio18 \ 				#optional
-sap 	#libcdio-cdda2 \ 			#optional
-sap 	#libcdio-paranoia2 \ 			#optional
-sap 	#libcdparanoia0 \ 			#optional
-sap 	#libcheese8 \ 				#optional
-sap 	#libcheese-gtk25 \ 			#optional
-sap 	#libclutter-1.0-0 \ 			#optional
-sap 	#libclutter-1.0-common \ 		#optional
-sap 	#libclutter-gst-3.0-0 \ 		#optional
-sap 	#libclutter-gtk-1.0-0 \ 		#optional
-sap 	#libcogl20 \ 				#optional
-sap 	#libcogl-common \ 			#optional
-sap 	#libcogl-pango20 \ 			#optional
-sap 	#libcogl-path20 \ 			#optional
-sap 	#libcolord2 \ 				#optional
-sap 	#libcolord-gtk1 \ 			#optional
-sap 	#libcolorhug2 \ 			#optional
-sap 	#libcrack2 \ 				#optional
-sap 	#libcue2 \ 				#optional
-sap 	#libcups2 \ 				#optional
-sap 	#libcupsfilters1 \ 			#optional
-sap 	#libcupsimage2 \ 			#optional
-sap 	#libcurl3-gnutls \ 			#optional
-sap 	#libdaemon0 \ 				#optional
-sap 	#libdata-dump-perl \ 			#optional
-sap 	#libdatrie1 \ 				#optional
-sap 	#libdbus-glib-1-2 \ 			#optional
-sap 	#libdbusmenu-glib4 \ 			#optional
-sap 	#libdbusmenu-gtk3-4 \ 			#optional
-sap 	#libdconf1 \ 				#optional
-sap 	#libdee-1.0-4 \ 			#optional
-sap 	#libdjvulibre21 \ 			#optional
-sap 	#libdjvulibre-text \ 			#optional
-sap 	#libdotconf0 \ 				#optional
-sap 	#libdpkg-perl \ 			#optional
-sap 	#libdrm2 \ 				#optional
-sap 	#libdrm-amdgpu1 \ 			#optional
-sap 	#libdrm-common \ 			#optional
-sap 	#libdrm-intel1 \ 			#optional
-sap 	#libdrm-nouveau2 \ 			#optional
-sap 	#libdrm-radeon1 \ 			#optional
-sap 	#libdv4 \ 				#optional
-sap 	#libdw1 \ 				#optional
-sap 	#libebackend-1.2-10 \ 			#optional
-sap 	#libebook-1.2-20 \ 			#optional
-sap 	#libebook-contacts-1.2-3 \ 		#optional
-sap 	#libecal-2.0-1 \ 			#optional
-sap 	#libedata-book-1.2-26 \ 		#optional
-sap 	#libedata-cal-2.0-1 \ 			#optional
-sap 	#libedataserver-1.2-24 \ 		#optional
-sap 	#libedataserverui-1.2-2 \ 		#optional
-sap 	#libedit2 \ 				#optional
-sap 	#libefiboot1 \ 				#optional
-sap 	#libefivar1 \ 				#optional
-sap 	#libegl1 \ 				#optional
-sap 	#libegl-mesa0 \ 			#optional
-sap 	#libenchant-2-2 \ 			#optional
-sap 	#libencode-locale-perl \ 		#optional
-sap 	#libepoxy0 \ 				#optional
-sap 	#liberror-perl \ 			#optional
-sap 	#libespeak-ng1 \ 			#optional
-sap 	#libevdev2 \ 				#optional
-sap 	#libevdocument3-4 \ 			#optional
-sap 	#libevview3-3 \ 			#optional
-sap 	#libexempi8 \ 				#optional
-sap 	#libexif12 \ 				#optional
-sap 	#libexiv2-27 \ 				#optional
-sap 	#libextutils-depends-perl \ 		#optional
-sap 	#libextutils-pkgconfig-perl \ 		#optional
-sap 	#libfftw3-single3 \ 			#optional
-sap 	#libfido2-1 \ 				#optional
-sap 	#libfile-basedir-perl \ 		#optional
-sap 	#libfile-desktopentry-perl \ 		#optional
-sap 	#libfile-fcntllock-perl \ 		#optional
-sap 	#libfile-listing-perl \ 		#optional
-sap 	#libfile-mimeinfo-perl \ 		#optional
-sap 	#libflac8 \ 				#optional
-sap 	#libfont-afm-perl \ 			#optional
-sap 	#libfontconfig1 \ 			#optional
-sap 	#libfontembed1 \ 			#optional
-sap 	#libfontenc1 \ 				#optional
-sap 	#libfprint-2-2 \ 			#optional
-sap 	#libfreetype6 \ 			#optional
-sap 	#libfuse2 \ 				#optional
-sap 	#libfwupd2 \ 				#optional
-sap 	#libfwupdplugin1 \ 			#optional
-sap 	#libgail18 \ 				#optional
-sap 	#libgail-common \ 			#optional
-sap 	#libgamemode0 \ 			#optional
-sap 	#libgamemodeauto0 \ 			#optional
-sap 	#libgbm1 \ 				#optional
-sap 	#libgcab-1.0-0 \ 			#optional
-sap 	#libgck-1-0 \ 				#optional
-sap 	#libgcr-base-3-1 \			#optional
-sap 	#libgcr-ui-3-1 \ 			#optional
-sap 	#libgd3 \ 				#optional
-sap 	#libgdata22 \ 				#optional
-sap 	#libgdata-common \ 			#optional
-sap 	#libgdbm6 \ 				#optional
-sap 	#libgdbm-compat4 \ 			#optional
-sap 	#libgdk-pixbuf2.0-0 \ 			#optional
-sap 	#libgdk-pixbuf2.0-bin \ 		#optional
-sap 	#libgdk-pixbuf2.0-common \ 		#optional
-sap 	#libgdm1 \ 				#optional
-sap 	#libgee-0.8-2 \ 			#optional
-sap 	#libgeoclue-2-0 \ 			#optional
-sap 	#libgeocode-glib0 \ 			#optional
-sap 	#libgexiv2-2 \ 				#optional
-sap 	#libgif7 \ 				#optional
-sap 	#libgjs0g \ 				#optional
-sap 	#libgl1 \ 				#optional
-sap 	#libgl1-mesa-dri \ 			#optional
-sap 	#libglapi-mesa \ 			#optional
-sap 	#libgles2 \ 				#optional
-sap 	#libglib2.0-bin \ 			#optional
-sap 	#libglibmm-2.4-1v5 \ 			#optional
-sap 	#libglib-object-introspection-perl \ 	#optional
-sap 	#libglib-perl \ 			#optional
-sap 	#libglu1-mesa \ 			#optional
-sap 	#libglvnd0 \ 				#optional
-sap 	#libglx0 \ 				#optional
-sap 	#libglx-mesa0 \ 			#optional
-sap 	#libgnome-autoar-0-0 \ 			#optional
-sap 	#libgnome-bluetooth13 \ 		#optional
-sap 	#libgnome-desktop-3-19 \ 		#optional
-sap 	#libgnomekbd8 \ 			#optional
-sap 	#libgnomekbd-common \ 			#optional
-sap 	#libgnome-menu-3-0 \ 			#optional
-sap 	#libgoa-1.0-0b \ 			#optional
-sap 	#libgoa-1.0-common \ 			#optional
-sap 	#libgoa-backend-1.0-1 \ 		#optional
-sap 	#libgomp1 \ 				#optional
-sap 	#libgpgme11 \ 				#optional
-sap 	#libgphoto2-6 \ 			#optional
-sap 	#libgphoto2-l10n \ 			#optional
-sap 	#libgphoto2-port12 \ 			#optional
-sap 	#libgpm2 \ 				#optional
-sap 	#libgraphene-1.0-0 \ 			#optional
-sap 	#libgraphite2-3 \ 			#optional
-sap 	#libgs9 \ 				#optional
-sap 	#libgs9-common \ 			#optional
-sap 	#libgsf-1-114 \ 			#optional
-sap 	#libgsf-1-common \ 			#optional
-sap 	#libgsound0 \ 				#optional
-sap 	#libgspell-1-2 \ 			#optional
-sap 	#libgspell-1-common \ 			#optional
-sap 	#libgssapi3-heimdal \ 			#optional
-sap 	#libgssapi-krb5-2 \ 			#optional
-sap 	#libgssdp-1.2-0 \ 			#optional
-sap 	#libgstreamer1.0-0 \ 			#optional
-sap 	#libgstreamer-gl1.0-0 \ 		#optional
-sap 	#libgstreamer-plugins-base1.0-0 \ 	#optional
-sap 	#libgtk2.0-0 \ 				#optional
-sap 	#libgtk2.0-bin \ 			#optional
-sap 	#libgtk2.0-common \ 			#optional
-sap 	#libgtk-3-0 \ 				#optional
-sap 	#libgtk-3-bin \ 			#optional
-sap 	#libgtk-3-common \ 			#optional
-sap 	#libgtk3-perl \ 			#optional
-sap 	#libgtkmm-3.0-1v5 \ 			#optional
-sap 	#libgtksourceview-4-0 \ 		#optional
-sap 	#libgtksourceview-4-common \ 		#optional
-sap 	#libgtop-2.0-11 \ 			#optional
-sap 	#libgtop2-common \ 			#optional
-sap 	#libgudev-1.0-0 \ 			#optional
-sap 	#libgupnp-1.2-0 \ 			#optional
-sap 	#libgupnp-av-1.0-2 \ 			#optional
-sap 	#libgupnp-dlna-2.0-3 \ 			#optional
-sap 	#libgusb2 \ 				#optional
-sap 	#libgweather-3-16 \ 			#optional
-sap 	#libgweather-common \ 			#optional
-sap 	#libgxps2 \ 				#optional
-sap 	#libhandy-0.0-0 \ 			#optional
-sap 	#libharfbuzz0b \ 			#optional
-sap 	#libharfbuzz-icu0 \ 			#optional
-sap 	#libhcrypto4-heimdal \ 			#optional
-sap 	#libheimbase1-heimdal \ 		#optional
-sap 	#libheimntlm0-heimdal \ 		#optional
-sap 	#libhtml-format-perl \ 			#optional
-sap 	#libhtml-form-perl \ 			#optional
-sap 	#libhtml-parser-perl \ 			#optional
-sap 	#libhtml-tagset-perl \ 			#optional
-sap 	#libhtml-tree-perl \ 			#optional
-sap 	#libhttp-cookies-perl \ 		#optional
-sap 	#libhttp-daemon-perl \ 			#optional
-sap 	#libhttp-date-perl \ 			#optional
-sap 	#libhttp-message-perl \ 		#optional
-sap 	#libhttp-negotiate-perl \ 		#optional
-sap 	#libhunspell-1.7-0 \ 			#optional
-sap 	#libhx509-5-heimdal \ 			#optional
-sap 	#libhyphen0 \ 				#optional
-sap 	#libibus-1.0-5 \ 			#optional
-sap 	#libical3 \ 				#optional
-sap 	#libice6 \ 				#optional
-sap 	#libidn11 \ 				#optional
-sap 	#libiec61883-0 \ 			#optional
-sap 	#libieee1284-3 \ 			#optional
-sap 	#libijs-0.35 \ 				#optional
-sap 	#libimobiledevice6 \ 			#optional
-sap 	#libinput10 \ 				#optional
-sap 	#libinput-bin \ 			#optional
-sap 	#libio-html-perl \ 			#optional
-sap 	#libio-socket-ssl-perl \ 		#optional
-sap 	#libio-stringy-perl \ 			#optional
-sap 	#libip6tc2 \ 				#optional
-sap 	#libipc-system-simple-perl \ 		#optional
-sap 	#libisl22 \ 				#optional
-sap 	#libiw30 \ 				#optional
-sap 	#libjack-jackd2-0 \ 			#optional
-sap 	#libjansson4 \ 				#optional	
-sap 	#libjavascriptcoregtk-4.0-18 \ 		#optional
-sap 	#libjbig0 \ 				#optional
-sap 	#libjbig2dec0 \ 			#optional
-sap 	#libjpeg8 \ 				#optional
-sap 	#libjpeg-turbo8 \ 			#optional
-sap 	#libjson-glib-1.0-0 \ 			#optional
-sap 	#libjson-glib-1.0-common \ 		#optional
-sap 	#libk5crypto3 \ 			#optional
-sap 	#libkeyutils1 \ 			#optional
-sap 	#libklibc \ 				#optional
-sap 	#libkpathsea6 \ 			#optional
-sap 	#libkrb5-26-heimdal \ 			#optional
-sap 	#libkrb5-3 \ 				#optional
-sap 	#libkrb5support0 \ 			#optional
-sap 	#libksba8 \ 				#optional
-sap 	#liblcms2-2 \ 				#optional
-sap 	#liblcms2-utils \ 			#optional
-sap 	#libldap-2.4-2 \ 			#optional
-sap 	#libldap-common \ 			#optional
-sap 	#libldb2 \ 				#optional
-sap 	#libllvm10 \ 				#optional
-sap 	#libllvm9 \ 				#optional
-sap 	#liblmdb0 \ 				#optional
-sap 	#liblouis20 \ 				#optional
-sap 	#liblouis-data \ 			#optional
-sap 	#liblouisutdml9 \ 			#optional
-sap 	#liblouisutdml-bin \ 			#optional
-sap 	#liblouisutdml-data \ 			#optional
-sap 	#libltdl7 \ 				#optional
-sap 	#liblwp-mediatypes-perl \ 		#optional
-sap 	#liblwp-protocol-https-perl \ 		#optional
-sap 	#liblzo2-2 \ 				#optional
-sap 	#libmailtools-perl \ 			#optional
-sap 	#libmaxminddb0 \ 			#optional
-sap 	#libmbim-glib4 \ 			#optional
-sap 	#libmbim-proxy \ 			#optional
-sap 	#libmediaart-2.0-0 \ 			#optional
-sap 	#libmm-glib0 \ 				#optional
-sap 	#libmozjs-68-0 \ 			#optional
-sap 	#libmp3lame0 \ 				#optional
-sap 	#libmpfr6 \ 				#optional
-sap 	#libmpg123-0 \ 				#optional
-sap 	#libmtdev1 \ 				#optional
-sap 	#libmtp9 \ 				#optional
-sap 	#libmtp-common \ 			#optional
-sap 	#libmtp-runtime \ 			#optional
-sap 	#libmutter-6-0 \ 			#optional
-sap 	#libmysqlclient21 \ 			#optional
-sap 	#libnautilus-extension1a \ 		#optional
-sap 	#libndp0 \ 				#optional
-sap 	#libnet-dbus-perl \ 			#optional
-sap 	#libnetfilter-conntrack3 \ 		#optional
-sap 	#libnet-http-perl \ 			#optional
-sap 	#libnet-smtp-ssl-perl \ 		#optional
-sap 	#libnet-ssleay-perl \ 			#optional
-sap 	#libnfs13 \ 				#optional
-sap 	#libnftnl11 \ 				#optional
-sap 	#libnghttp2-14 \ 			#optional
-sap 	#libnl-3-200 \ 				#optional
-sap 	#libnl-genl-3-200 \ 			#optional
-sap 	#libnl-route-3-200 \ 			#optional
-sap 	#libnm0 \ 				#optional
-sap 	#libnma0 \ 				#optional
-sap 	#libnotify4 \ 				#optional
-sap 	#libnotify-bin \ 			#optional
-sap 	#libnpth0 \ 				#optional
-sap 	#libnspr4 \ 				#optional
-sap 	#libnss3 \ 				#optional
-sap 	#libnss-mdns \ 				#optional
-sap 	#libntfs-3g883 \ 			#optional
-sap 	#libnuma1 \ 				#optional
-sap 	#libnvpair1linux \ 			#optional
-sap 	#libogg0 \ 				#optional
-sap 	#libopenjp2-7 \ 			#optional
-sap 	#libopus0 \ 				#optional
-sap 	#liborc-0.4-0 \ 			#optional
-sap 	#libpackagekit-glib2-18 \ 		#optional
-sap 	#libpam-fprintd \ 			#optional
-sap 	#libpam-gnome-keyring \ 		#optional
-sap 	#libpango-1.0-0 \ 			#optional
-sap 	#libpangocairo-1.0-0 \ 			#optional
-sap 	#libpangoft2-1.0-0 \ 			#optional
-sap 	#libpangomm-1.4-1v5 \ 			#optional
-sap 	#libpangoxft-1.0-0 \ 			#optional
-sap 	#libpaper1 \ 				#optional
-sap 	#libpaper-utils \ 			#optional
-sap 	#libparted2 \ 				#optional
-sap 	#libparted-fs-resize0 \ 		#optional
-sap 	#libpcap0.8 \ 				#optional
-sap 	#libpcaudio0 \ 				#optional
-sap 	#libpci3 \ 				#optional
-sap 	#libpciaccess0 \ 			#optional
-sap 	#libpcre2-32-0 \ 			#optional
-sap 	#libpcsclite1 \ 			#optional
-sap 	#libpeas-1.0-0 \ 			#optional
-sap 	#libpeas-common \ 			#optional
-sap 	#libperl5.30 \ 				#optional
-sap 	#libphonenumber7 \ 			#optional
-sap 	#libpipeline1 \ 			#optional
-sap 	#libpixman-1-0 \ 			#optional
-sap 	#libpkcs11-helper1 \ 			#optional
-sap 	#libplist3 \ 				#optional
-sap 	#libplymouth5 \ 			#optional
-sap 	#libpng16-16 \ 				#optional
-sap 	#libpolkit-agent-1-0 \ 			#optional
-sap 	#libpolkit-gobject-1-0 \ 		#optional
-sap 	#libpoppler97 \ 			#optional
-sap 	#libpoppler-cpp0v5 \ 			#optional
-sap 	#libpoppler-glib8 \ 			#optional
-sap 	#libprotobuf17 \ 			#optional
-sap 	#libproxy1-plugin-gsettings \ 		#optional
-sap 	#libproxy1-plugin-networkmanager \ 	#optional
-sap 	#libproxy1v5 \ 				#optional
-sap 	#libpsl5 \ 				#optional
-sap 	#libpulse0 \ 				#optional
-sap 	#libpulsedsp \ 				#optional
-sap 	#libpulse-mainloop-glib0 \ 		#optional
-sap 	#libpwquality1 \ 			#optional
-sap 	#libpwquality-common \ 			#optional
-sap 	#libpython3.8 \ 			#optional
-sap 	#libqmi-glib5 \ 			#optional
-sap 	#libqmi-proxy \ 			#optional
-sap 	#libqpdf26 \ 				#optional	
-sap 	#libraw1394-11 \ 			#optional
-sap 	#librest-0.7-0 \ 			#optional
-sap 	#libroken18-heimdal \ 			#optional
-sap 	#librsvg2-2 \ 				#optional
-sap 	#librsvg2-common \ 			#optional
-sap 	#librtmp1 \ 				#optional
-sap 	#librygel-core-2.6-2 \ 			#optional
-sap 	#librygel-db-2.6-2 \ 			#optional
-sap 	#librygel-renderer-2.6-2 \ 		#optional
-sap 	#librygel-server-2.6-2 \ 		#optional
-sap 	#libsamplerate0 \ 			#optional
-sap 	libsane \ 				#optional
-sap 	libsane-common \ 			#optional
-sap 	#libsane-hpaio \ 			#optional
-sap 	#libsasl2-modules \ 			#optional
-sap 	#libsbc1 \ 				#optional
-sap 	#libsecret-1-0 \ 			#optional
-sap 	#libsecret-common \ 			#optional
-sap 	#libsensors5 \ 				#optional
-sap 	#libsensors-config \ 			#optional
-sap 	#libshout3 \ 				#optional
-sap 	#libsigc++-2.0-0v5 \ 			#optional
-sap 	#libsm6 \ 				#optional
-sap 	#libsmbclient \ 			#optional
-sap 	#libsmbios-c2 \ 			#optional
-sap 	#libsnapd-glib1 \ 			#optional
-sap 	#libsndfile1 \ 				#optional
-sap 	#libsnmp35 \ 				#optional
-sap 	#libsnmp-base \ 			#optional
-sap 	#libsonic0 \ 				#optional
-sap 	#libsoup2.4-1 \ 			#optional
-sap 	#libsoup-gnome2.4-1 \ 			#optional
-sap 	#libsoxr0 \ 				#optional
-sap 	#libspectre1 \ 				#optional
-sap 	#libspeechd2 \ 				#optional
-sap 	#libspeex1 \ 				#optional
-sap 	#libspeexdsp1 \ 			#optional
-sap 	#libssh-4 \ 				#optional
-sap 	#libstartup-notification0 \ 		#optional
-sap 	#libstemmer0d \ 			#optional
-sap 	#libsynctex2 \ 				#optional
-sap 	#libsysmetrics1 \ 			#optional
-sap 	#libtag1v5 \ 				#optional
-sap 	#libtag1v5-vanilla \ 			#optional
-sap 	#libtalloc2 \ 				#optional
-sap 	#libtdb1 \ 				#optional
-sap 	#libteamdctl0 \ 			#optional
-sap 	#libtepl-4-0 \ 				#optional
-sap 	#libtevent0 \ 				#optional
-sap 	#libthai0 \ 				#optional
-sap 	#libthai-data \ 			#optional
-sap 	#libtheora0 \ 				#optional
-sap 	#libtie-ixhash-perl \ 			#optional
-sap 	#libtiff5 \ 				#optional
-sap 	#libtimedate-perl \ 			#optional
-sap 	#libtotem-plparser18 \ 			#optional
-sap 	#libtotem-plparser-common \ 		#optional
-sap 	#libtracker-control-2.0-0 \ 		#optional
-sap 	#libtracker-miner-2.0-0 \ 		#optional
-sap 	#libtracker-sparql-2.0-0 \ 		#optional
-sap 	#libtry-tiny-perl \ 			#optional
-sap 	#libtss2-esys0 \ 			#optional
-sap 	#libtwolame0 \ 				#optional
-sap 	#libu2f-udev \ 				#optional
-sap 	#libuchardet0 \ 			#optional
-sap 	#libudisks2-0 \ 			#optional
-sap 	#libunity9 \ 				#optional
-sap 	#libunity-protocol-private0 \ 		#optional
-sap 	#libunity-scopes-json-def-desktop \ 	#optional
-sap 	#libunwind8 \ 				#optional
-sap 	#libupower-glib3 \ 			#optional
-sap 	#liburi-perl \ 				#optional
-sap 	#libusb-1.0-0 \ 			#optional
-sap 	#libusbmuxd6 \ 				#optional
-sap 	#libuutil1linux \ 			#optional
-sap 	#libuv1 \ 				#optional
-sap 	#libv4l-0 \ 				#optional
-sap 	#libv4lconvert0 \ 			#optional
-sap 	#libvisual-0.4-0 \ 			#optional
-sap 	#libvolume-key1 \ 			#optional
-sap 	#libvorbis0a \ 				#optional
-sap 	#libvorbisenc2 \ 			#optional
-sap 	#libvorbisfile3 \ 			#optional
-sap 	#libvpx6 \ 				#optional
-sap 	#libvte-2.91-0 \ 			#optional
-sap 	#libvte-2.91-common \ 			#optional
-sap 	#libvulkan1 \ 				#optional
-sap 	#libwacom2 \ 				#optional
-sap 	#libwacom-bin \ 			#optional
-sap 	#libwacom-common \ 			#optional
-sap 	#libwavpack1 \ 				#optional
-sap 	#libwayland-client0 \ 			#optional
-sap 	#libwayland-cursor0 \ 			#optional
-sap 	#libwayland-egl1 \ 			#optional
-sap 	#libwayland-server0 \ 			#optional
-sap 	#libwbclient0 \ 			#optional
-sap 	#libwebkit2gtk-4.0-37 \ 		#optional
-sap 	#libwebp6 \ 				#optional
-sap 	#libwebpdemux2 \ 			#optional
-sap 	#libwebrtc-audio-processing1 \ 		#optional
-sap 	#libwhoopsie0 \ 			#optional
-sap 	#libwhoopsie-preferences0 \ 		#optional
-sap 	#libwind0-heimdal \ 			#optional
-sap 	#libwmf0.2-7 \ 				#optional
-sap 	#libwmf0.2-7-gtk \ 			#optional
-sap 	#libwnck-3-0 \ 				#optional
-sap 	#libwnck-3-common \ 			#optional
-sap 	#libwoff1 \ 				#optional
-sap 	#libwrap0 \ 				#optional
-sap 	#libwww-perl \ 				#optional
-sap 	#libwww-robotrules-perl \ 		#optional
-sap 	#libx11-6 \ 				#optional
-sap 	#libx11-data \ 				#optional
-sap 	#libx11-protocol-perl \ 		#optional
-sap 	#libx11-xcb1 \ 				#optional
-sap 	#libxatracker2 \ 			#optional
-sap 	#libxau6 \ 				#optional
-sap 	#libxaw7 \ 				#optional
-sap 	#libxcb1 \ 				#optional
-sap 	#libxcb-dri2-0 \ 			#optional
-sap 	#libxcb-dri3-0 \ 			#optional
-sap 	#libxcb-glx0 \ 				#optional
-sap 	#libxcb-icccm4 \ 			#optional
-sap 	#libxcb-present0 \ 			#optional
-sap 	#libxcb-randr0 \ 			#optional
-sap 	#libxcb-render0 \ 			#optional
-sap 	#libxcb-res0 \ 				#optional
-sap 	#libxcb-shape0 \ 			#optional
-sap 	#libxcb-shm0 \ 				#optional
-sap 	#libxcb-sync1 \ 			#optional
-sap 	#libxcb-xfixes0 \ 			#optional
-sap 	#libxcb-xkb1 \ 				#optional
-sap 	#libxcb-xv0 \ 				#optional
-sap 	#libxcomposite1 \ 			#optional
-sap 	#libxcursor1 \ 				#optional
-sap 	#libxdamage1 \ 				#optional
-sap 	#libxdmcp6 \ 				#optional
-sap 	#libxext6 \ 				#optional
-sap 	#libxfixes3 \ 				#optional
-sap 	#libxfont2 \ 				#optional
-sap 	#libxft2 \ 				#optional
-sap 	#libxi6 \ 				#optional
-sap 	#libxinerama1 \ 			#optional
-sap 	#libxkbcommon0 \ 			#optional
-sap 	#libxkbcommon-x11-0 \ 			#optional
-sap 	#libxkbfile1 \ 				#optional
-sap 	#libxklavier16 \ 			#optional
-sap 	#libxmlb1 \ 				#optional
-sap 	#libxml-parser-perl \ 			#optional
-sap 	#libxml-twig-perl \ 			#optional
-sap 	#libxml-xpathengine-perl \ 		#optional
-sap 	#libxmu6 \ 				#optional
-sap 	#libxmuu1 \ 				#optional
-sap 	#libxpm4 \ 				#optional
-sap 	#libxrandr2 \ 				#optional
-sap 	#libxrender1 \ 				#optional
-sap 	#libxres1 \ 				#optional
-sap 	#libxshmfence1 \ 			#optional
-sap 	#libxslt1.1 \ 				#optional
-sap 	#libxss1 \ 				#optional
-sap 	#libxt6 \ 				#optional
-sap 	#libxtst6 \ 				#optional
-sap 	#libxv1 \ 				#optional
-sap 	#libxvmc1 \ 				#optional
-sap 	#libxxf86dga1 \ 			#optional
-sap 	#libxxf86vm1 \ 				#optional
-sap 	#libyelp0 \ 				#optional
-sap 	#libzfs2linux \ 			#optional
-sap 	#libzpool2linux \ 			#optional
-sap 	#linux-base \ 				#optional
-sap 	#linux-firmware \ 			#optional
-sap 	#linux-generic-hwe-20.04 \ 		#optional
-sap 	#linux-headers-5.4.0-42 \ 		#optional
-sap 	#linux-headers-5.4.0-42-generic \ 	#optional
-sap 	#linux-headers-5.4.0-48 \ 		#optional
-sap 	#linux-headers-5.4.0-48-generic \ 	#optional
-sap 	#linux-headers-generic-hwe-20.04 \ 	#optional
-sap 	#linux-image-5.4.0-42-generic \ 	#optional
-sap 	#linux-image-5.4.0-48-generic \ 	#optional
-sap 	#linux-image-generic-hwe-20.04 \ 	#optional
-sap 	#linux-modules-5.4.0-42-generic \ 	#optional
-sap 	#linux-modules-5.4.0-48-generic \ 	#optional
-sap 	#linux-modules-extra-5.4.0-42-generic \ #optional
-sap 	#linux-modules-extra-5.4.0-48-generic \ #optional
-sap 	#linux-sound-base \ 			#optional
-sap 	#lshw \ 				#optional
-sap 	#ltrace \ 				#optional
-sap 	#lz4 \ 					#optional
-sap 	#memtest86+ \ 				#optional
-sap 	#mesa-vulkan-drivers \ 			#optional
-sap 	#mobile-broadband-provider-info \ 	#optional
-sap 	#modemmanager \ 			#optional
-sap 	#mokutil \ 				#optional
-sap 	#mousetweaks \ 				#optional
-sap 	#mscompress \ 				#optional
-sap 	#mtools \ 				#optional
-sap 	#mtr-tiny \ 				#optional
-sap 	#mutter \	 			#optional
-sap 	#mutter-common \ 			#optional
-sap 	#mysql-common \ 			#optional
-sap 	#nautilus \ 				#optional
-sap 	#nautilus-data \ 			#optional
-sap 	#nautilus-extension-gnome-terminal \ 	#optional
-sap 	#nautilus-sendto \ 			#optional
-sap 	#nautilus-share \ 			#optional
-sap 	#network-manager \ 			#optional
-sap 	#network-manager-gnome \ 		#optional
-sap 	#network-manager-openvpn \ 		#optional
-sap 	#network-manager-openvpn-gnome \ 	#optional
-sap 	#network-manager-pptp \ 		#optional
-sap 	#network-manager-pptp-gnome \ 		#optional
-sap 	#ntfs-3g \ 				#optional
-sap 	#openprinting-ppds \			#optional
-sap 	#openvpn \ 				#optional
-sap 	#orca \ 				#optional
-sap 	#p11-kit \ 				#optional
-sap 	#p11-kit-modules \ 			#optional
-sap 	#packagekit \ 				#optional
-sap 	#packagekit-tools \ 			#optional
-sap 	#parted \ 				#optional
-sap 	#patch \ 				#optional
-sap 	#pci.ids \ 				#optional
-sap 	#pcmciautils \ 				#optional
-sap 	#perl-openssl-defaults \ 		#optional
-sap 	#pinentry-curses \ 			#optional
-sap 	#pinentry-gnome3 \ 			#optional
-sap 	#pkg-config \ 				#optional
-sap 	#plymouth \ 				#optional
-sap 	#plymouth-label \ 			#optional
-sap 	#plymouth-theme-spinner \ 		#optional
-sap 	#plymouth-theme-ubuntu-text \ 		#optional
-sap 	#policykit-1 \ 				#optional
-sap 	#policykit-desktop-privileges \ 	#optional
-sap 	#poppler-data \ 			#optional
-sap 	#poppler-utils \ 			#optional
-sap 	#popularity-contest \ 			#optional
-sap 	#powermgmt-base \ 			#optional
-sap 	#ppp \ 					#optional
-sap 	#pptp-linux \ 				#optional
-sap 	printer-driver-brlaser \ 		#optional
-sap 	#printer-driver-c2esp \ 		#optional
-sap 	printer-driver-foo2zjs \ 		#optional
-sap 	printer-driver-foo2zjs-common \ 	#optional
-sap 	printer-driver-m2300w \ 		#optional
-sap 	#printer-driver-min12xxw \ 		#optional
-sap 	#printer-driver-pnm2ppa \ 		#optional
-sap 	printer-driver-ptouch \ 		#optional
-sap 	#printer-driver-pxljr \ 		#optional
-sap 	#printer-driver-sag-gdi \ 		#optional
-sap 	printer-driver-splix \ 			#optional
-sap 	#psmisc \ 				#optional
-sap 	#publicsuffix \ 			#optional
-sap 	pulseaudio \ 				#optional
-sap 	pulseaudio-module-bluetooth \ 		#optional
-sap 	pulseaudio-utils \ 			#optional
-sap 	#python3-apport \ 			#optional
-sap 	#python3-apt \ 				#optional
-sap 	#python3-blinker \ 			#optional
-sap 	#python3-brlapi \ 			#optional
-sap 	#python3-cairo \ 			#optional
-sap 	#python3-certifi \ 			#optional
-sap 	#python3-chardet \ 			#optional
-sap 	#python3-click \ 			#optional
-sap 	#python3-colorama \ 			#optional
-sap 	#python3-commandnotfound \ 		#optional
-sap 	#python3-cryptography \ 		#optional
-sap 	#python3-cups \ 			#optional
-sap 	#python3-cupshelpers \ 			#optional
-sap 	#python3-dateutil \ 			#optional
-sap 	#python3-debconf \ 			#optional
-sap 	#python3-debian \ 			#optional
-sap 	#python3-distro \ 			#optional
-sap 	#python3-distro-info \ 			#optional
-sap 	#python3-distupgrade \ 			#optional
-sap 	#python3-entrypoints \ 			#optional
-sap 	#python3-gdbm \ 			#optional
-sap 	#python3-gi-cairo \ 			#optional
-sap 	#python3-httplib2 \ 			#optional
-sap 	#python3-ibus-1.0 \ 			#optional
-sap 	#python3-idna \ 			#optional
-sap 	#python3-jwt \ 				#optional
-sap 	#python3-keyring \ 			#optional
-sap 	#python3-launchpadlib \ 		#optional
-sap 	#python3-lazr.restfulclient \ 		#optional
-sap 	#python3-lazr.uri \ 			#optional
-sap 	#python3-louis \ 			#optional
-sap 	#python3-macaroonbakery \ 		#optional
-sap 	#python3-oauthlib \ 			#optional
-sap 	#python3-problem-report \ 		#optional
-sap 	#python3-protobuf \ 			#optional
-sap 	#python3-pyatspi \ 			#optional
-sap 	#python3-requests \ 			#optional
-sap 	#python3-requests-unixsocket \ 		#optional
-sap 	#python3-rfc3339 \ 			#optional
-sap 	#python3-secretstorage \ 		#optional
-sap 	#python3-simplejson \ 			#optional
-sap 	#python3-software-properties \ 		#optional
-sap 	#python3-speechd \ 			#optional
-sap 	#python3-systemd \ 			#optional
-sap 	#python3-talloc \ 			#optional
-sap 	#python3-tz \ 				#optional
-sap 	#python3-update-manager \ 		#optional
-sap 	#python3-urllib3 \ 			#optional
-sap 	#python3-wadllib \ 			#optional
-sap 	#python3-xdg \ 				#optional
-sap 	#python3-xkit \ 			#optional
-sap 	#python-apt-common \ 			#optional
-sap 	#rfkill \ 				#optional
-sap 	#rsync \ 				#optional
-sap 	#rtkit \ 				#optional
-sap 	#rygel \ 				#optional
-sap 	#samba-libs \ 				#optional
-sap 	sane-utils \ 				#optional
-sap 	#sbsigntool \ 				#optional
-sap 	#seahorse \ 				#optional
-sap 	#secureboot-db \ 			#optional
-sap 	#sgml-base \ 				#optional
-sap 	#sgml-data \ 				#optional
-sap 	#shim \ 				#optional
-sap 	#shim-signed \ 				#optional
-sap 	#snapd \ 				#optional
-sap 	#software-properties-common \ 		#optional
-sap 	#software-properties-gtk \ 		#optional
-sap 	#sound-icons \ 				#optional
-sap 	#sound-theme-freedesktop \ 		#optional
-sap 	#speech-dispatcher \ 			#optional
-sap 	#speech-dispatcher-audio-plugins \ 	#optional
-sap 	#speech-dispatcher-espeak-ng \ 		#optional
-sap 	#spice-vdagent \ 			#optional
-sap 	#squashfs-tools \ 			#optional
-sap 	#ssl-cert \ 				#optional
-sap 	#strace \ 				#optional
-sap 	#switcheroo-control \ 			#optional
-sap 	#system-config-printer \ 		#optional
-sap 	#system-config-printer-common \ 	#optional
-sap 	#system-config-printer-udev \ 		#optional
-sap 	#tcpdump \ 				#optional
-sap 	#thermald \ 				#optional
-sap 	#tpm-udev \ 				#optional
-sap 	#tracker \ 				#optional
-sap 	#tracker-extract \ 			#optional
-sap 	#tracker-miner-fs \ 			#optional
-sap 	#ubuntu-desktop \ 			#optional
-sap 	#ubuntu-desktop-minimal \		#optional
-sap 	#ubuntu-docs \ 				#optional
-sap 	#ubuntu-drivers-common \ 		#optional
-sap 	#ubuntu-mono \ 				#optional
-sap 	#ubuntu-release-upgrader-core \ 	#optional
-sap 	#ubuntu-release-upgrader-gtk \ 		#optional
-sap 	#ubuntu-report \ 			#optional
-sap 	#ubuntu-session \ 			#optional
-sap 	#ubuntu-settings \ 			#optional
-sap 	#ubuntu-wallpapers \ 			#optional
-sap 	#ubuntu-wallpapers-focal \ 		#optional
-sap 	#udisks2 \ 				#optional
-sap 	#ufw \ 					#optional
-sap 	#unattended-upgrades \ 			#optional
-sap 	#unzip \ 				#optional
-sap 	#update-inetd \ 			#optional
-sap 	#update-manager \ 			#optional
-sap 	#update-manager-core \ 			#optional
-sap 	#update-notifier \ 			#optional
-sap 	#update-notifier-common \ 		#optional
-sap 	#upower \ 				#optional
-sap 	#usb.ids \ 				#optional
-sap 	#usb-modeswitch \ 			#optional
-sap 	#usb-modeswitch-data \ 			#optional
-sap 	#usbmuxd \ 				#optional
-sap 	#usbutils \ 				#optional
-sap 	#uuid-runtime \ 			#optional
-sap 	#wbritish \ 				#optional
-sap 	#whoopsie \ 				#optional
-sap 	#whoopsie-preferences \ 		#optional
-sap 	#wireless-regdb \ 			#optional
-sap 	#wireless-tools \ 			#optional
-sap 	#wpasupplicant \ 			#optional
-sap 	x11-apps \ 				#optional
-sap 	x11-common \ 				#optional
-sap 	x11-session-utils \ 			#optional
-sap 	x11-utils \ 				#optional
-sap 	x11-xkb-utils \ 			#optional
-sap 	x11-xserver-utils \ 			#optional
-sap 	xauth \ 				#optional
-sap 	xbitmaps \ 				#optional
-sap 	xbrlapi \ 				#optional
-sap 	xcursor-themes \ 			#optional
-sap 	#xdg-dbus-proxy \ 			#optional
-sap 	#xdg-desktop-portal \ 			#optional
-sap 	#xdg-desktop-portal-gtk \ 		#optional
-sap 	#xdg-user-dirs-gtk \ 			#optional
-sap 	#xdg-utils \ 				#optional
-sap 	xfonts-base \ 				#optional
-sap 	xfonts-encodings \ 			#optional
-sap 	xfonts-scalable \ 			#optional
-sap 	xfonts-utils \ 				#optional
-sap 	xinit \ 				#optional
-sap 	xinput \ 				#optional
-sap 	#xml-core \ 				#optional
-sap 	xorg \ 					#optional
-sap 	xorg-docs-core \ 			#optional
-sap 	xserver-common \ 			#optional
-sap 	xserver-xephyr \ 			#optional
-sap 	xserver-xorg \ 				#optional
-sap 	xserver-xorg-core \ 			#optional
-sap 	xserver-xorg-input-all \ 		#optional
-sap 	xserver-xorg-input-libinput \ 		#optional
-sap 	xserver-xorg-input-wacom \ 		#optional
-sap 	xserver-xorg-legacy \ 			#optional
-sap 	xserver-xorg-video-all \ 		#optional
-sap 	xserver-xorg-video-amdgpu \ 		#optional
-sap 	xserver-xorg-video-ati \ 		#optional
-sap 	xserver-xorg-video-fbdev \ 		#optional
-sap 	xserver-xorg-video-intel \ 		#optional
-sap 	xserver-xorg-video-nouveau \ 		#optional
-sap 	xserver-xorg-video-qxl \ 		#optional
-sap 	xserver-xorg-video-radeon \ 		#optional
-sap 	xserver-xorg-video-vesa \ 		#optional
-sap 	xserver-xorg-video-vmware \ 		#optional
-sap 	xul-ext-ubufox \ 			#optional
-sap 	#xwayland \ 				#optional
-sap 	yaru-theme-gnome-shell \ 		#optional
-sap 	yaru-theme-gtk \ 			#optional
-sap 	yaru-theme-icon \ 			#optional
-sap 	yaru-theme-sound \ 			#optional
-sap 	yelp \ 					#optional
-sap 	yelp-xsl \ 				#optional
-sap 	#zenity \ 				#optional
-sap 	#zenity-common \ 			#optional
-sap 	#zfs-initramfs \ 			#optional
-sap 	#zfsutils-linux \ 			#optional
-sap 	#zfs-zed \ 				#optional
-sap 	#zip \ 					#optional
-sap 	#zsys	 				#optional
+#sap accountsservice 			
+#sap acl  					
+#sap acpid  				
+#sap acpi-support  			
+sap adwaita-icon-theme  			
+#sap alsa-base  				
+#sap alsa-topology-conf  			
+#sap alsa-ucm-conf  			
+#sap alsa-utils  				
+#sap anacron  				
+#sap apg  					
+#sap apparmor  				
+#sap app-install-data-partner  		
+#sap apport  				
+#sap apport-gtk  				
+#sap apport-symptoms  			
+#sap appstream  				
+#sap apt-config-icons  			
+#sap apt-config-icons-hidpi  		
+#sap apturl  				
+#sap apturl-common  			
+#sap aspell  				
+#sap aspell-en  				
+#sap at-spi2-core  		     	
+#sap avahi-autoipd  			
+#sap avahi-daemon  			
+#sap avahi-utils  				
+#sap bluez  				
+#sap bluez-cups  				
+#sap bluez-obexd  				
+#sap bolt  				
+sap brltty  				
+#sap bubblewrap  				
+#sap busybox-initramfs  			
+#sap busybox-static  			
+#sap cheese-common  			
+#sap colord  				
+#sap colord-data  				
+#sap command-not-found  			
+#sap cpp  					
+#sap cpp-9  				
+#sap cracklib-runtime  			
+#sap crda  				
+#sap cups  				
+#sap cups-browsed  			
+#sap cups-bsd  				
+#sap cups-client  				
+#sap cups-common  				
+#sap cups-core-drivers  			
+#sap cups-daemon  				
+#sap cups-filters  			
+#sap cups-filters-core-drivers  		
+#sap cups-ipp-utils  			
+#sap cups-ppdc  				
+#sap cups-server-common  			
+#sap dbus-user-session  			
+#sap dbus-x11  				
+#sap dconf-cli  				
+#sap dconf-gsettings-backend  		
+#sap dconf-service  			
+#sap desktop-file-utils  			
+#sap dictionaries-common  			
+#sap dirmngr  				
+#sap dmz-cursor-theme  			
+#sap dnsmasq-base  			
+#sap dns-root-data  			
+#sap docbook-xml  				
+#sap dosfstools  				
+#sap ed  					
+#sap efibootmgr  				
+#sap emacsen-common  			
+#sap enchant-2  				
+#sap eog  					
+#sap espeak-ng-data  			
+#sap evince  				
+#sap evince-common  			
+#sap evolution-data-server  		
+#sap evolution-data-server-common  	
+#sap file-roller  				
+sap firefox  				
+sap firefox-locale-en  			
+#sap fontconfig  				
+#sap fontconfig-config  			
+sap fonts-beng  				
+sap fonts-beng-extra  			
+#sap fonts-dejavu-core  			
+sap fonts-deva  				
+sap fonts-deva-extra  			
+#sap fonts-droid-fallback  		
+sap fonts-freefont-ttf  			
+sap fonts-gargi  				
+sap fonts-gubbi  				
+sap fonts-gujr  				
+sap fonts-gujr-extra  			
+sap fonts-guru  				
+sap fonts-guru-extra  			
+sap fonts-indic  				
+sap fonts-kacst  				
+sap fonts-kacst-one  			
+sap fonts-kalapi  				
+sap fonts-khmeros-core  			
+sap fonts-knda  				
+sap fonts-lao  				
+sap fonts-liberation  			
+sap fonts-liberation2  			
+sap fonts-lklug-sinhala  			
+sap fonts-lohit-beng-assamese  		
+sap fonts-lohit-beng-bengali  		
+sap fonts-lohit-deva  			
+sap fonts-lohit-gujr  			
+sap fonts-lohit-guru  			
+sap fonts-lohit-knda  			
+sap fonts-lohit-mlym  			
+sap fonts-lohit-orya  			
+sap fonts-lohit-taml  			
+sap fonts-lohit-taml-classical  		
+sap fonts-lohit-telu  			
+sap fonts-mlym  				
+sap fonts-nakula 				
+sap fonts-navilu  				
+sap fonts-noto-cjk  			
+sap fonts-noto-color-emoji  		
+#sap fonts-noto-mono  			
+sap fonts-opensymbol  			
+sap fonts-orya  				
+sap fonts-orya-extra  			
+sap fonts-pagul  				
+sap fonts-sahadeva  			
+sap fonts-samyak-deva  			
+sap fonts-samyak-gujr  			
+sap fonts-samyak-mlym  			
+sap fonts-samyak-taml  			
+sap fonts-sarai  				
+sap fonts-sil-abyssinica  			
+sap fonts-sil-padauk  			
+sap fonts-smc  				
+sap fonts-smc-anjalioldlipi  		
+sap fonts-smc-chilanka  			
+sap fonts-smc-dyuthi  			
+sap fonts-smc-gayathri  			
+sap fonts-smc-karumbi  			
+sap fonts-smc-keraleeyam  			
+sap fonts-smc-manjari  			
+sap fonts-smc-meera  			
+sap fonts-smc-rachana  			
+sap fonts-smc-raghumalayalamsans  		
+sap fonts-smc-suruma  			
+sap fonts-smc-uroob  			
+sap fonts-taml  				
+sap fonts-telu  				
+sap fonts-telu-extra  			
+sap fonts-thai-tlwg  			
+sap fonts-tibetan-machine  		
+sap fonts-tlwg-garuda  			
+sap fonts-tlwg-garuda-ttf  		
+sap fonts-tlwg-kinnari  			
+sap fonts-tlwg-kinnari-ttf  		
+sap fonts-tlwg-laksaman  			
+sap fonts-tlwg-laksaman-ttf  		
+sap fonts-tlwg-loma  			
+sap fonts-tlwg-loma-ttf  			
+sap fonts-tlwg-mono  			
+sap fonts-tlwg-mono-ttf  			
+sap fonts-tlwg-norasi  			
+sap fonts-tlwg-norasi-ttf  		
+sap fonts-tlwg-purisa  			
+sap fonts-tlwg-purisa-ttf  		
+sap fonts-tlwg-sawasdee  			
+sap fonts-tlwg-sawasdee-ttf  		
+sap fonts-tlwg-typewriter  		
+sap fonts-tlwg-typewriter-ttf  		
+sap fonts-tlwg-typist  			
+sap fonts-tlwg-typist-ttf  		
+sap fonts-tlwg-typo  			
+sap fonts-tlwg-typo-ttf  			
+sap fonts-tlwg-umpush  			
+sap fonts-tlwg-umpush-ttf  		
+sap fonts-tlwg-waree  			
+sap fonts-tlwg-waree-ttf  			
+sap fonts-ubuntu  				
+sap fonts-urw-base35  			
+sap fonts-yrsa-rasa  			
+#sap foomatic-db-compressed-ppds  		
+#sap fprintd  				
+#sap friendly-recovery  			
+#sap fuse  				
+#sap fwupd  				
+#sap fwupd-signed  			
+sap gamemode  				
+#sap gcr  					
+#sap gdb  					
+#sap gdbserver  				
+#sap gdisk  				
+#sap gdm3  				
+sap gedit  				
+sap gedit-common  				
+#sap genisoimage  				
+#sap geoclue-2.0  				
+#sap ghostscript  				
+#sap ghostscript-x  			
+#sap gir1.2-accountsservice-1.0  		
+#sap gir1.2-atk-1.0  			
+#sap gir1.2-atspi-2.0  			
+#sap gir1.2-dbusmenu-glib-0.4  		
+#sap gir1.2-dee-1.0  			
+#sap gir1.2-freedesktop  			
+#sap gir1.2-gck-1  			
+#sap gir1.2-gcr-3  			
+#sap gir1.2-gdesktopenums-3.0  		
+#sap gir1.2-gdkpixbuf-2.0  		
+#sap gir1.2-gdm-1.0  			
+#sap gir1.2-geoclue-2.0  			
+#sap gir1.2-gmenu-3.0  			
+#sap gir1.2-gnomebluetooth-1.0  		
+#sap gir1.2-gnomedesktop-3.0  		
+#sap gir1.2-goa-1.0  			
+#sap gir1.2-graphene-1.0  			
+#sap gir1.2-gstreamer-1.0  		
+#sap gir1.2-gtk-3.0  			
+#sap gir1.2-gtksource-4  			
+#sap gir1.2-gweather-3.0  			
+#sap gir1.2-ibus-1.0  			
+#sap gir1.2-javascriptcoregtk-4.0  	
+#sap gir1.2-json-1.0  			
+#sap gir1.2-mutter-6  			
+#sap gir1.2-nm-1.0  			
+#sap gir1.2-nma-1.0  			
+#sap gir1.2-notify-0.7  			
+#sap gir1.2-packagekitglib-1.0  		
+#sap gir1.2-pango-1.0 			
+#sap gir1.2-peas-1.0  			
+#sap gir1.2-polkit-1.0  			
+#sap gir1.2-rsvg-2.0  			
+#sap gir1.2-secret-1  			
+#sap gir1.2-snapd-1  			
+#sap gir1.2-soup-2.4  			
+#sap gir1.2-unity-5.0  			
+#sap gir1.2-upowerglib-1.0  		
+#sap gir1.2-vte-2.91  			
+#sap gir1.2-webkit2-4.0  			
+#sap gir1.2-wnck-3.0  			
+sap git  					
+sap git-man  				
+#sap gjs  					
+#sap gkbd-capplet  			
+#sap glib-networking  			
+#sap glib-networking-common  		
+#sap glib-networking-services  		
+sap gnome-accessibility-themes  		
+sap gnome-bluetooth  			
+sap gnome-calculator  			
+sap gnome-characters  			
+sap gnome-control-center  			
+sap gnome-control-center-data  		
+sap gnome-control-center-faces  		
+sap gnome-desktop3-data  			
+sap gnome-disk-utility  			
+sap gnome-font-viewer  			
+sap gnome-getting-started-docs  		
+sap gnome-initial-setup  			
+sap gnome-keyring  			
+sap gnome-keyring-pkcs11  			
+sap gnome-logs  				
+sap gnome-menus  				
+sap gnome-online-accounts  		
+sap gnome-power-manager  			
+sap gnome-screenshot  			
+sap gnome-session-bin  			
+sap gnome-session-canberra  		
+sap gnome-session-common  			
+sap gnome-settings-daemon  		
+sap gnome-settings-daemon-common  		
+sap gnome-shell  				
+sap gnome-shell-common  			
+sap gnome-shell-extension-appindicator  	
+sap gnome-shell-extension-desktop-icons 	
+sap gnome-shell-extension-ubuntu-dock  	
+sap gnome-startup-applications  		
+sap gnome-system-monitor  			
+sap gnome-terminal  			
+sap gnome-terminal-data  			
+sap gnome-themes-extra  			
+sap gnome-themes-extra-data  		
+sap gnome-user-docs  			
+#sap gnupg  				
+#sap gnupg-l10n  				
+#sap gnupg-utils  				
+#sap gpg  					
+#sap gpg-agent  				
+#sap gpgconf  				
+#sap gpgsm  				
+#sap gpg-wks-client  			
+#sap gpg-wks-server  			
+#sap grub2-common  			
+#sap grub-common  				
+#sap grub-efi-amd64-bin  			
+#sap grub-efi-amd64-signed  		
+#sap grub-gfxpayload-lists  		
+#sap grub-pc  				
+#sap grub-pc-bin  				
+#sap gsettings-desktop-schemas  		
+#sap gsettings-ubuntu-schemas  		
+#sap gstreamer1.0-alsa  			
+#sap gstreamer1.0-clutter-3.0  		
+#sap gstreamer1.0-gl  			
+#sap gstreamer1.0-packagekit  		
+#sap gstreamer1.0-plugins-base  		
+#sap gstreamer1.0-plugins-base-apps  	
+#sap gstreamer1.0-plugins-good  		
+#sap gstreamer1.0-pulseaudio  		
+#sap gstreamer1.0-tools  			
+#sap gstreamer1.0-x  			
+#sap gtk2-engines-murrine  		
+#sap gtk2-engines-pixbuf  			
+#sap gtk-update-icon-cache  		
+#sap gvfs  				
+#sap gvfs-backends  			
+#sap gvfs-bin  				
+#sap gvfs-common  				
+#sap gvfs-daemons  			
+#sap gvfs-fuse  				
+#sap gvfs-libs  				
+#sap hdparm  				
+#sap hicolor-icon-theme  			
+#sap humanity-icon-theme  			
+#sap ibus  				
+#sap ibus-data  				
+#sap ibus-gtk  				
+#sap ibus-gtk3  				
+#sap ibus-table  				
+#sap iio-sensor-proxy  			
+#sap im-config  				
+#sap initramfs-tools  			
+#sap initramfs-tools-bin  			
+#sap initramfs-tools-core  		
+#sap inputattach  				
+#sap ippusbxd  				
+#sap iptables  				
+#sap iputils-tracepath  			
+#sap irqbalance  				
+#sap iso-codes  				
+#sap iucode-tool  				
+#sap iw  					
+#sap kerneloops  				
+#sap klibc-utils  				
+#sap krb5-locales  			
+#sap language-pack-en  			
+#sap language-pack-en-base  		
+#sap language-pack-gnome-en  		
+#sap language-pack-gnome-en-base  		
+#sap language-selector-common  		
+#sap language-selector-gnome  		
+#sap laptop-detect  			
+#sap libaa1  				
+#sap libaccountsservice0  			
+#sap libamtk-5-0  				
+#sap libamtk-5-common  			
+#sap libao4  				
+#sap libao-common  			
+#sap libappindicator3-1  			
+#sap libappstream4  			
+#sap libarchive13  			
+#sap libasn1-8-heimdal  			
+#sap libasound2  				
+#sap libasound2-data  			
+#sap libasound2-plugins  			
+#sap libaspell15  				
+#sap libassuan0  				
+#sap libasyncns0  				
+#sap libatasmart4  			
+#sap libatk1.0-0  				
+#sap libatk1.0-data  			
+#sap libatk-adaptor  			
+#sap libatk-bridge2.0-0  			
+#sap libatkmm-1.6-1v5  			
+#sap libatopology2  			
+#sap libatspi2.0-0  			
+#sap libauthen-sasl-perl  			
+#sap libavahi-client3  			
+#sap libavahi-common3  			
+#sap libavahi-common-data  		
+#sap libavahi-core7  			
+#sap libavahi-glib1  			
+#sap libavc1394-0  			
+#sap libbabeltrace1  			
+#sap libblockdev2  			
+#sap libblockdev-crypto2  			
+#sap libblockdev-fs2  			
+#sap libblockdev-loop2  			
+#sap libblockdev-part2  			
+#sap libblockdev-part-err2  		
+#sap libblockdev-swap2  			
+#sap libblockdev-utils2  			
+#sap libbluetooth3  			
+#sap libboost-thread1.71.0  		
+#sap libbrlapi0.7  			
+#sap libbrotli1  				
+#sap libc6-dbg  				
+#sap libcaca0  				
+#sap libcairo2  				
+#sap libcairo-gobject2  			
+#sap libcairo-gobject-perl  		
+#sap libcairomm-1.0-1v5  			
+#sap libcairo-perl  			
+#sap libcamel-1.2-62  			
+#sap libcanberra0  			
+#sap libcanberra-gtk3-0              	
+#sap libcanberra-gtk3-module  		
+#sap libcanberra-pulse  			
+#sap libcbor0.6  				
+#sap libcc1-0  				
+#sap libcdio18  				
+#sap libcdio-cdda2  			
+#sap libcdio-paranoia2  			
+#sap libcdparanoia0  			
+#sap libcheese8  				
+#sap libcheese-gtk25  			
+#sap libclutter-1.0-0  			
+#sap libclutter-1.0-common  		
+#sap libclutter-gst-3.0-0  		
+#sap libclutter-gtk-1.0-0  		
+#sap libcogl20  				
+#sap libcogl-common  			
+#sap libcogl-pango20  			
+#sap libcogl-path20  			
+#sap libcolord2  				
+#sap libcolord-gtk1  			
+#sap libcolorhug2  			
+#sap libcrack2  				
+#sap libcue2  				
+#sap libcups2  				
+#sap libcupsfilters1  			
+#sap libcupsimage2  			
+#sap libcurl3-gnutls  			
+#sap libdaemon0  				
+#sap libdata-dump-perl  			
+#sap libdatrie1  				
+#sap libdbus-glib-1-2  			
+#sap libdbusmenu-glib4  			
+#sap libdbusmenu-gtk3-4  			
+#sap libdconf1  				
+#sap libdee-1.0-4  			
+#sap libdjvulibre21  			
+#sap libdjvulibre-text  			
+#sap libdotconf0  				
+#sap libdpkg-perl  			
+#sap libdrm2  				
+#sap libdrm-amdgpu1  			
+#sap libdrm-common  			
+#sap libdrm-intel1  			
+#sap libdrm-nouveau2  			
+#sap libdrm-radeon1  			
+#sap libdv4  				
+#sap libdw1  				
+#sap libebackend-1.2-10  			
+#sap libebook-1.2-20  			
+#sap libebook-contacts-1.2-3  		
+#sap libecal-2.0-1  			
+#sap libedata-book-1.2-26  		
+#sap libedata-cal-2.0-1  			
+#sap libedataserver-1.2-24  		
+#sap libedataserverui-1.2-2  		
+#sap libedit2  				
+#sap libefiboot1  				
+#sap libefivar1  				
+#sap libegl1  				
+#sap libegl-mesa0  			
+#sap libenchant-2-2  			
+#sap libencode-locale-perl  		
+#sap libepoxy0  				
+#sap liberror-perl  			
+#sap libespeak-ng1  			
+#sap libevdev2  				
+#sap libevdocument3-4  			
+#sap libevview3-3  			
+#sap libexempi8  				
+#sap libexif12  				
+#sap libexiv2-27  				
+#sap libextutils-depends-perl  		
+#sap libextutils-pkgconfig-perl  		
+#sap libfftw3-single3  			
+#sap libfido2-1  				
+#sap libfile-basedir-perl  		
+#sap libfile-desktopentry-perl  		
+#sap libfile-fcntllock-perl  		
+#sap libfile-listing-perl  		
+#sap libfile-mimeinfo-perl  		
+#sap libflac8  				
+#sap libfont-afm-perl  			
+#sap libfontconfig1  			
+#sap libfontembed1  			
+#sap libfontenc1  				
+#sap libfprint-2-2  			
+#sap libfreetype6  			
+#sap libfuse2  				
+#sap libfwupd2  				
+#sap libfwupdplugin1  			
+#sap libgail18  				
+#sap libgail-common  			
+#sap libgamemode0  			
+#sap libgamemodeauto0  			
+#sap libgbm1  				
+#sap libgcab-1.0-0  			
+#sap libgck-1-0  				
+#sap libgcr-base-3-1 			
+#sap libgcr-ui-3-1  			
+#sap libgd3  				
+#sap libgdata22  				
+#sap libgdata-common  			
+#sap libgdbm6  				
+#sap libgdbm-compat4  			
+#sap libgdk-pixbuf2.0-0  			
+#sap libgdk-pixbuf2.0-bin  		
+#sap libgdk-pixbuf2.0-common  		
+#sap libgdm1  				
+#sap libgee-0.8-2  			
+#sap libgeoclue-2-0  			
+#sap libgeocode-glib0  			
+#sap libgexiv2-2  				
+#sap libgif7  				
+#sap libgjs0g  				
+#sap libgl1  				
+#sap libgl1-mesa-dri  			
+#sap libglapi-mesa  			
+#sap libgles2  				
+#sap libglib2.0-bin  			
+#sap libglibmm-2.4-1v5  			
+#sap libglib-object-introspection-perl  	
+#sap libglib-perl  			
+#sap libglu1-mesa  			
+#sap libglvnd0  				
+#sap libglx0  				
+#sap libglx-mesa0  			
+#sap libgnome-autoar-0-0  			
+#sap libgnome-bluetooth13  		
+#sap libgnome-desktop-3-19  		
+#sap libgnomekbd8  			
+#sap libgnomekbd-common  			
+#sap libgnome-menu-3-0  			
+#sap libgoa-1.0-0b  			
+#sap libgoa-1.0-common  			
+#sap libgoa-backend-1.0-1  		
+#sap libgomp1  				
+#sap libgpgme11  				
+#sap libgphoto2-6  			
+#sap libgphoto2-l10n  			
+#sap libgphoto2-port12  			
+#sap libgpm2  				
+#sap libgraphene-1.0-0  			
+#sap libgraphite2-3  			
+#sap libgs9  				
+#sap libgs9-common  			
+#sap libgsf-1-114  			
+#sap libgsf-1-common  			
+#sap libgsound0  				
+#sap libgspell-1-2  			
+#sap libgspell-1-common  			
+#sap libgssapi3-heimdal  			
+#sap libgssapi-krb5-2  			
+#sap libgssdp-1.2-0  			
+#sap libgstreamer1.0-0  			
+#sap libgstreamer-gl1.0-0  		
+#sap libgstreamer-plugins-base1.0-0  	
+#sap libgtk2.0-0  				
+#sap libgtk2.0-bin  			
+#sap libgtk2.0-common  			
+#sap libgtk-3-0  				
+#sap libgtk-3-bin  			
+#sap libgtk-3-common  			
+#sap libgtk3-perl  			
+#sap libgtkmm-3.0-1v5  			
+#sap libgtksourceview-4-0  		
+#sap libgtksourceview-4-common  		
+#sap libgtop-2.0-11  			
+#sap libgtop2-common  			
+#sap libgudev-1.0-0  			
+#sap libgupnp-1.2-0  			
+#sap libgupnp-av-1.0-2  			
+#sap libgupnp-dlna-2.0-3  			
+#sap libgusb2  				
+#sap libgweather-3-16  			
+#sap libgweather-common  			
+#sap libgxps2  				
+#sap libhandy-0.0-0  			
+#sap libharfbuzz0b  			
+#sap libharfbuzz-icu0  			
+#sap libhcrypto4-heimdal  			
+#sap libheimbase1-heimdal  		
+#sap libheimntlm0-heimdal  		
+#sap libhtml-format-perl  			
+#sap libhtml-form-perl  			
+#sap libhtml-parser-perl  			
+#sap libhtml-tagset-perl  			
+#sap libhtml-tree-perl  			
+#sap libhttp-cookies-perl  		
+#sap libhttp-daemon-perl  			
+#sap libhttp-date-perl  			
+#sap libhttp-message-perl  		
+#sap libhttp-negotiate-perl  		
+#sap libhunspell-1.7-0  			
+#sap libhx509-5-heimdal  			
+#sap libhyphen0  				
+#sap libibus-1.0-5  			
+#sap libical3  				
+#sap libice6  				
+#sap libidn11  				
+#sap libiec61883-0  			
+#sap libieee1284-3  			
+#sap libijs-0.35  				
+#sap libimobiledevice6  			
+#sap libinput10  				
+#sap libinput-bin  			
+#sap libio-html-perl  			
+#sap libio-socket-ssl-perl  		
+#sap libio-stringy-perl  			
+#sap libip6tc2  				
+#sap libipc-system-simple-perl  		
+#sap libisl22  				
+#sap libiw30  				
+#sap libjack-jackd2-0  			
+#sap libjansson4  					
+#sap libjavascriptcoregtk-4.0-18  		
+#sap libjbig0  				
+#sap libjbig2dec0  			
+#sap libjpeg8  				
+#sap libjpeg-turbo8  			
+#sap libjson-glib-1.0-0  			
+#sap libjson-glib-1.0-common  		
+#sap libk5crypto3  			
+#sap libkeyutils1  			
+#sap libklibc  				
+#sap libkpathsea6  			
+#sap libkrb5-26-heimdal  			
+#sap libkrb5-3  				
+#sap libkrb5support0  			
+#sap libksba8  				
+#sap liblcms2-2  				
+#sap liblcms2-utils  			
+#sap libldap-2.4-2  			
+#sap libldap-common  			
+#sap libldb2  				
+#sap libllvm10  				
+#sap libllvm9  				
+#sap liblmdb0  				
+#sap liblouis20  				
+#sap liblouis-data  			
+#sap liblouisutdml9  			
+#sap liblouisutdml-bin  			
+#sap liblouisutdml-data  			
+#sap libltdl7  				
+#sap liblwp-mediatypes-perl  		
+#sap liblwp-protocol-https-perl  		
+#sap liblzo2-2  				
+#sap libmailtools-perl  			
+#sap libmaxminddb0  			
+#sap libmbim-glib4  			
+#sap libmbim-proxy  			
+#sap libmediaart-2.0-0  			
+#sap libmm-glib0  				
+#sap libmozjs-68-0  			
+#sap libmp3lame0  				
+#sap libmpfr6  				
+#sap libmpg123-0  				
+#sap libmtdev1  				
+#sap libmtp9  				
+#sap libmtp-common  			
+#sap libmtp-runtime  			
+#sap libmutter-6-0  			
+#sap libmysqlclient21  			
+#sap libnautilus-extension1a  		
+#sap libndp0  				
+#sap libnet-dbus-perl  			
+#sap libnetfilter-conntrack3  		
+#sap libnet-http-perl  			
+#sap libnet-smtp-ssl-perl  		
+#sap libnet-ssleay-perl  			
+#sap libnfs13  				
+#sap libnftnl11  				
+#sap libnghttp2-14  			
+#sap libnl-3-200  				
+#sap libnl-genl-3-200  			
+#sap libnl-route-3-200  			
+#sap libnm0  				
+#sap libnma0  				
+#sap libnotify4  				
+#sap libnotify-bin  			
+#sap libnpth0  				
+#sap libnspr4  				
+#sap libnss3  				
+#sap libnss-mdns  				
+#sap libntfs-3g883  			
+#sap libnuma1  				
+#sap libnvpair1linux  			
+#sap libogg0  				
+#sap libopenjp2-7  			
+#sap libopus0  				
+#sap liborc-0.4-0  			
+#sap libpackagekit-glib2-18  		
+#sap libpam-fprintd  			
+#sap libpam-gnome-keyring  		
+#sap libpango-1.0-0  			
+#sap libpangocairo-1.0-0  			
+#sap libpangoft2-1.0-0  			
+#sap libpangomm-1.4-1v5  			
+#sap libpangoxft-1.0-0  			
+#sap libpaper1  				
+#sap libpaper-utils  			
+#sap libparted2  				
+#sap libparted-fs-resize0  		
+#sap libpcap0.8  				
+#sap libpcaudio0  				
+#sap libpci3  				
+#sap libpciaccess0  			
+#sap libpcre2-32-0  			
+#sap libpcsclite1  			
+#sap libpeas-1.0-0  			
+#sap libpeas-common  			
+#sap libperl5.30  				
+#sap libphonenumber7  			
+#sap libpipeline1  			
+#sap libpixman-1-0  			
+#sap libpkcs11-helper1  			
+#sap libplist3  				
+#sap libplymouth5  			
+#sap libpng16-16  				
+#sap libpolkit-agent-1-0  			
+#sap libpolkit-gobject-1-0  		
+#sap libpoppler97  			
+#sap libpoppler-cpp0v5  			
+#sap libpoppler-glib8  			
+#sap libprotobuf17  			
+#sap libproxy1-plugin-gsettings  		
+#sap libproxy1-plugin-networkmanager  	
+#sap libproxy1v5  				
+#sap libpsl5  				
+#sap libpulse0  				
+#sap libpulsedsp  				
+#sap libpulse-mainloop-glib0  		
+#sap libpwquality1  			
+#sap libpwquality-common  			
+#sap libpython3.8  			
+#sap libqmi-glib5  			
+#sap libqmi-proxy  			
+#sap libqpdf26  					
+#sap libraw1394-11  			
+#sap librest-0.7-0  			
+#sap libroken18-heimdal  			
+#sap librsvg2-2  				
+#sap librsvg2-common  			
+#sap librtmp1  				
+#sap librygel-core-2.6-2  			
+#sap librygel-db-2.6-2  			
+#sap librygel-renderer-2.6-2  		
+#sap librygel-server-2.6-2  		
+#sap libsamplerate0  			
+sap libsane  				
+sap libsane-common  			
+#sap libsane-hpaio  			
+#sap libsasl2-modules  			
+#sap libsbc1  				
+#sap libsecret-1-0  			
+#sap libsecret-common  			
+#sap libsensors5  				
+#sap libsensors-config  			
+#sap libshout3  				
+#sap libsigc++-2.0-0v5  			
+#sap libsm6  				
+#sap libsmbclient  			
+#sap libsmbios-c2  			
+#sap libsnapd-glib1  			
+#sap libsndfile1  				
+#sap libsnmp35  				
+#sap libsnmp-base  			
+#sap libsonic0  				
+#sap libsoup2.4-1  			
+#sap libsoup-gnome2.4-1  			
+#sap libsoxr0  				
+#sap libspectre1  				
+#sap libspeechd2  				
+#sap libspeex1  				
+#sap libspeexdsp1  			
+#sap libssh-4  				
+#sap libstartup-notification0  		
+#sap libstemmer0d  			
+#sap libsynctex2  				
+#sap libsysmetrics1  			
+#sap libtag1v5  				
+#sap libtag1v5-vanilla  			
+#sap libtalloc2  				
+#sap libtdb1  				
+#sap libteamdctl0  			
+#sap libtepl-4-0  				
+#sap libtevent0  				
+#sap libthai0  				
+#sap libthai-data  			
+#sap libtheora0  				
+#sap libtie-ixhash-perl  			
+#sap libtiff5  				
+#sap libtimedate-perl  			
+#sap libtotem-plparser18  			
+#sap libtotem-plparser-common  		
+#sap libtracker-control-2.0-0  		
+#sap libtracker-miner-2.0-0  		
+#sap libtracker-sparql-2.0-0  		
+#sap libtry-tiny-perl  			
+#sap libtss2-esys0  			
+#sap libtwolame0  				
+#sap libu2f-udev  				
+#sap libuchardet0  			
+#sap libudisks2-0  			
+#sap libunity9  				
+#sap libunity-protocol-private0  		
+#sap libunity-scopes-json-def-desktop  	
+#sap libunwind8  				
+#sap libupower-glib3  			
+#sap liburi-perl  				
+#sap libusb-1.0-0  			
+#sap libusbmuxd6  				
+#sap libuutil1linux  			
+#sap libuv1  				
+#sap libv4l-0  				
+#sap libv4lconvert0  			
+#sap libvisual-0.4-0  			
+#sap libvolume-key1  			
+#sap libvorbis0a  				
+#sap libvorbisenc2  			
+#sap libvorbisfile3  			
+#sap libvpx6  				
+#sap libvte-2.91-0  			
+#sap libvte-2.91-common  			
+#sap libvulkan1  				
+#sap libwacom2  				
+#sap libwacom-bin  			
+#sap libwacom-common  			
+#sap libwavpack1  				
+#sap libwayland-client0  			
+#sap libwayland-cursor0  			
+#sap libwayland-egl1  			
+#sap libwayland-server0  			
+#sap libwbclient0  			
+#sap libwebkit2gtk-4.0-37  		
+#sap libwebp6  				
+#sap libwebpdemux2  			
+#sap libwebrtc-audio-processing1  		
+#sap libwhoopsie0  			
+#sap libwhoopsie-preferences0  		
+#sap libwind0-heimdal  			
+#sap libwmf0.2-7  				
+#sap libwmf0.2-7-gtk  			
+#sap libwnck-3-0  				
+#sap libwnck-3-common  			
+#sap libwoff1  				
+#sap libwrap0  				
+#sap libwww-perl  				
+#sap libwww-robotrules-perl  		
+#sap libx11-6  				
+#sap libx11-data  				
+#sap libx11-protocol-perl  		
+#sap libx11-xcb1  				
+#sap libxatracker2  			
+#sap libxau6  				
+#sap libxaw7  				
+#sap libxcb1  				
+#sap libxcb-dri2-0  			
+#sap libxcb-dri3-0  			
+#sap libxcb-glx0  				
+#sap libxcb-icccm4  			
+#sap libxcb-present0  			
+#sap libxcb-randr0  			
+#sap libxcb-render0  			
+#sap libxcb-res0  				
+#sap libxcb-shape0  			
+#sap libxcb-shm0  				
+#sap libxcb-sync1  			
+#sap libxcb-xfixes0  			
+#sap libxcb-xkb1  				
+#sap libxcb-xv0  				
+#sap libxcomposite1  			
+#sap libxcursor1  				
+#sap libxdamage1  				
+#sap libxdmcp6  				
+#sap libxext6  				
+#sap libxfixes3  				
+#sap libxfont2  				
+#sap libxft2  				
+#sap libxi6  				
+#sap libxinerama1  			
+#sap libxkbcommon0  			
+#sap libxkbcommon-x11-0  			
+#sap libxkbfile1  				
+#sap libxklavier16  			
+#sap libxmlb1  				
+#sap libxml-parser-perl  			
+#sap libxml-twig-perl  			
+#sap libxml-xpathengine-perl  		
+#sap libxmu6  				
+#sap libxmuu1  				
+#sap libxpm4  				
+#sap libxrandr2  				
+#sap libxrender1  				
+#sap libxres1  				
+#sap libxshmfence1  			
+#sap libxslt1.1  				
+#sap libxss1  				
+#sap libxt6  				
+#sap libxtst6  				
+#sap libxv1  				
+#sap libxvmc1  				
+#sap libxxf86dga1  			
+#sap libxxf86vm1  				
+#sap libyelp0  				
+#sap libzfs2linux  			
+#sap libzpool2linux  			
+#sap linux-base  				
+#sap linux-firmware  			
+#sap linux-generic-hwe-20.04  		
+#sap linux-headers-5.4.0-42  		
+#sap linux-headers-5.4.0-42-generic  	
+#sap linux-headers-5.4.0-48  		
+#sap linux-headers-5.4.0-48-generic  	
+#sap linux-headers-generic-hwe-20.04  	
+#sap linux-image-5.4.0-42-generic  	
+#sap linux-image-5.4.0-48-generic  	
+#sap linux-image-generic-hwe-20.04  	
+#sap linux-modules-5.4.0-42-generic  	
+#sap linux-modules-5.4.0-48-generic  	
+#sap linux-modules-extra-5.4.0-42-generic  
+#sap linux-modules-extra-5.4.0-48-generic  
+#sap linux-sound-base  			
+#sap lshw  				
+#sap ltrace  				
+#sap lz4  					
+#sap memtest86+  				
+#sap mesa-vulkan-drivers  			
+#sap mobile-broadband-provider-info  	
+#sap modemmanager  			
+#sap mokutil  				
+#sap mousetweaks  				
+#sap mscompress  				
+#sap mtools  				
+#sap mtr-tiny  				
+#sap mutter 	 			
+#sap mutter-common  			
+#sap mysql-common  			
+#sap nautilus  				
+#sap nautilus-data  			
+#sap nautilus-extension-gnome-terminal  	
+#sap nautilus-sendto  			
+#sap nautilus-share  			
+#sap network-manager  			
+#sap network-manager-gnome  		
+#sap network-manager-openvpn  		
+#sap network-manager-openvpn-gnome  	
+#sap network-manager-pptp  		
+#sap network-manager-pptp-gnome  		
+#sap ntfs-3g  				
+#sap openprinting-ppds 			
+#sap openvpn  				
+#sap orca  				
+#sap p11-kit  				
+#sap p11-kit-modules  			
+#sap packagekit  				
+#sap packagekit-tools  			
+#sap parted  				
+#sap patch  				
+#sap pci.ids  				
+#sap pcmciautils  				
+#sap perl-openssl-defaults  		
+#sap pinentry-curses  			
+#sap pinentry-gnome3  			
+#sap pkg-config  				
+#sap plymouth  				
+#sap plymouth-label  			
+#sap plymouth-theme-spinner  		
+#sap plymouth-theme-ubuntu-text  		
+#sap policykit-1  				
+#sap policykit-desktop-privileges  	
+#sap poppler-data  			
+#sap poppler-utils  			
+#sap popularity-contest  			
+#sap powermgmt-base  			
+#sap ppp  					
+#sap pptp-linux  				
+sap printer-driver-brlaser  		
+#sap printer-driver-c2esp  		
+sap printer-driver-foo2zjs  		
+sap printer-driver-foo2zjs-common  	
+sap printer-driver-m2300w  		
+#sap printer-driver-min12xxw  		
+#sap printer-driver-pnm2ppa  		
+sap printer-driver-ptouch  		
+#sap printer-driver-pxljr  		
+#sap printer-driver-sag-gdi  		
+sap printer-driver-splix  			
+#sap psmisc  				
+#sap publicsuffix  			
+sap pulseaudio  				
+sap pulseaudio-module-bluetooth  		
+sap pulseaudio-utils  			
+#sap python3-apport  			
+#sap python3-apt  				
+#sap python3-blinker  			
+#sap python3-brlapi  			
+#sap python3-cairo  			
+#sap python3-certifi  			
+#sap python3-chardet  			
+#sap python3-click  			
+#sap python3-colorama  			
+#sap python3-commandnotfound  		
+#sap python3-cryptography  		
+#sap python3-cups  			
+#sap python3-cupshelpers  			
+#sap python3-dateutil  			
+#sap python3-debconf  			
+#sap python3-debian  			
+#sap python3-distro  			
+#sap python3-distro-info  			
+#sap python3-distupgrade  			
+#sap python3-entrypoints  			
+#sap python3-gdbm  			
+#sap python3-gi-cairo  			
+#sap python3-httplib2  			
+#sap python3-ibus-1.0  			
+#sap python3-idna  			
+#sap python3-jwt  				
+#sap python3-keyring  			
+#sap python3-launchpadlib  		
+#sap python3-lazr.restfulclient  		
+#sap python3-lazr.uri  			
+#sap python3-louis  			
+#sap python3-macaroonbakery  		
+#sap python3-oauthlib  			
+#sap python3-problem-report  		
+#sap python3-protobuf  			
+#sap python3-pyatspi  			
+#sap python3-requests  			
+#sap python3-requests-unixsocket  		
+#sap python3-rfc3339  			
+#sap python3-secretstorage  		
+#sap python3-simplejson  			
+#sap python3-software-properties  		
+#sap python3-speechd  			
+#sap python3-systemd  			
+#sap python3-talloc  			
+#sap python3-tz  				
+#sap python3-update-manager  		
+#sap python3-urllib3  			
+#sap python3-wadllib  			
+#sap python3-xdg  				
+#sap python3-xkit  			
+#sap python-apt-common  			
+#sap rfkill  				
+#sap rsync  				
+#sap rtkit  				
+#sap rygel  				
+#sap samba-libs  				
+sap sane-utils  				
+#sap sbsigntool  				
+#sap seahorse  				
+#sap secureboot-db  			
+#sap sgml-base  				
+#sap sgml-data  				
+#sap shim  				
+#sap shim-signed  				
+#sap snapd  				
+#sap software-properties-common  		
+#sap software-properties-gtk  		
+#sap sound-icons  				
+#sap sound-theme-freedesktop  		
+#sap speech-dispatcher  			
+#sap speech-dispatcher-audio-plugins  	
+#sap speech-dispatcher-espeak-ng  		
+#sap spice-vdagent  			
+#sap squashfs-tools  			
+#sap ssl-cert  				
+#sap strace  				
+#sap switcheroo-control  			
+#sap system-config-printer  		
+#sap system-config-printer-common  	
+#sap system-config-printer-udev  		
+#sap tcpdump  				
+#sap thermald  				
+#sap tpm-udev  				
+#sap tracker  				
+#sap tracker-extract  			
+#sap tracker-miner-fs  			
+#sap ubuntu-desktop  			
+#sap ubuntu-desktop-minimal 		
+#sap ubuntu-docs  				
+#sap ubuntu-drivers-common  		
+#sap ubuntu-mono  				
+#sap ubuntu-release-upgrader-core  	
+#sap ubuntu-release-upgrader-gtk  		
+#sap ubuntu-report  			
+#sap ubuntu-session  			
+#sap ubuntu-settings  			
+#sap ubuntu-wallpapers  			
+#sap ubuntu-wallpapers-focal  		
+#sap udisks2  				
+#sap ufw  					
+#sap unattended-upgrades  			
+#sap unzip  				
+#sap update-inetd  			
+#sap update-manager  			
+#sap update-manager-core  			
+#sap update-notifier  			
+#sap update-notifier-common  		
+#sap upower  				
+#sap usb.ids  				
+#sap usb-modeswitch  			
+#sap usb-modeswitch-data  			
+#sap usbmuxd  				
+#sap usbutils  				
+#sap uuid-runtime  			
+#sap wbritish  				
+#sap whoopsie  				
+#sap whoopsie-preferences  		
+#sap wireless-regdb  			
+#sap wireless-tools  			
+#sap wpasupplicant  			
+sap x11-apps  				
+sap x11-common  				
+sap x11-session-utils  			
+sap x11-utils  				
+sap x11-xkb-utils  			
+sap x11-xserver-utils  			
+sap xauth  				
+sap xbitmaps  				
+sap xbrlapi  				
+sap xcursor-themes  			
+#sap xdg-dbus-proxy  			
+#sap xdg-desktop-portal  			
+#sap xdg-desktop-portal-gtk  		
+#sap xdg-user-dirs-gtk  			
+#sap xdg-utils  				
+sap xfonts-base  				
+sap xfonts-encodings  			
+sap xfonts-scalable  			
+sap xfonts-utils  				
+sap xinit  				
+sap xinput  				
+#sap xml-core  				
+sap xorg  					
+sap xorg-docs-core  			
+sap xserver-common  			
+sap xserver-xephyr  			
+sap xserver-xorg  				
+sap xserver-xorg-core  			
+sap xserver-xorg-input-all  		
+sap xserver-xorg-input-libinput  		
+sap xserver-xorg-input-wacom  		
+sap xserver-xorg-legacy  			
+sap xserver-xorg-video-all  		
+sap xserver-xorg-video-amdgpu  		
+sap xserver-xorg-video-ati  		
+sap xserver-xorg-video-fbdev  		
+sap xserver-xorg-video-intel  		
+sap xserver-xorg-video-nouveau  		
+sap xserver-xorg-video-qxl  		
+sap xserver-xorg-video-radeon  		
+sap xserver-xorg-video-vesa  		
+sap xserver-xorg-video-vmware  		
+sap xul-ext-ubufox  			
+#sap xwayland  				
+sap yaru-theme-gnome-shell  		
+sap yaru-theme-gtk  			
+sap yaru-theme-icon  			
+sap yaru-theme-sound  			
+sap yelp  					
+sap yelp-xsl  				
+#sap zenity  				
+#sap zenity-common  			
+#sap zfs-initramfs  			
+#sap zfsutils-linux  			
+#sap zfs-zed  				
+#sap zip  					
+#sap zsys	 				

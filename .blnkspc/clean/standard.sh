@@ -1,23 +1,23 @@
-sap 	#amd64-microcode \ 	#standard
-sap 	#bash-completion \ 	#standard
-sap 	#bc \ 			#standard
-sap 	#bind9-dnsutils \ 	#standard
-sap 	#bind9-host \ 		#standard
-sap 	#bind9-libs \ 		#standard
-sap 	#cron \ 		#standard
-sap 	#dc \ 			#standard
-sap 	#ftp \ 			#standard
-sap 	#gettext-base \ 	#standard
-sap 	#hunspell-en-us \ 	#standard
-sap 	#intel-microcode \ 	#standard
-sap 	#libsasl2-2 \ 		#standard
-sap 	#libsasl2-modules-db \ 	#standard
-sap 	#lsof \ 		#standard
-sap 	#manpages \ 		#standard
-sap 	#openssh-client \ 	#standard
-sap 	#pciutils \ 		#standard
-sap 	#perl \ 		#standard
-sap 	#perl-modules-5.30 \ 	#standard
-sap 	#telnet \ 		#standard
-sap 	#time \ 		#standard
-sap 	#wamerican 		#standard
+#sap amd64-microcode  	
+#sap bash-completion  	
+#sap bc  			
+#sap bind9-dnsutils  	
+#sap bind9-host  		
+#sap bind9-libs  		
+#sap cron  		
+#sap dc  			
+#sap ftp  			
+#sap gettext-base  	
+#sap hunspell-en-us  	
+#sap intel-microcode  	
+#sap libsasl2-2  		
+#sap libsasl2-modules-db  	
+#sap lsof  		
+#sap manpages  		
+#sap openssh-client  	
+#sap pciutils  		
+#sap perl  		
+#sap perl-modules-5.30  	
+#sap telnet  		
+#sap time  		
+#sap wamerican 		

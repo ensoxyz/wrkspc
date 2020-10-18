@@ -1,134 +1,134 @@
-sap 	#adduser \                 	#important
-sap 	#apt \                     	#important
-sap 	#apt-utils \               	#important
-sap 	#bsdmainutils \            	#important
-sap 	#bzip2 \                   	#important
-sap 	#ca-certificates \         	#important
-sap 	#console-setup \           	#important
-sap 	#console-setup-linux \     	#important
-sap 	#cpio \                    	#important
-sap 	#dbus \                    	#important
-sap 	#debconf-i18n \            	#important
-sap 	#distro-info-data \        	#important
-sap 	#dmidecode \               	#important
-sap 	#dmsetup \                 	#important
-sap 	#eject \                   	#important
-sap 	#file \                    	#important
-sap 	#gir1.2-glib-2.0 \         	#important
-sap 	#gpgv \                    	#important
-sap 	#groff-base \              	#important
-sap 	#info \                    	#important
-sap 	#init \                    	#important
-sap 	#install-info \            	#important
-sap 	#iproute2 \                	#important
-sap 	#iputils-ping \            	#important
-sap 	#isc-dhcp-client \         	#important
-sap 	#isc-dhcp-common \         	#important
-sap 	#kbd \                     	#important
-sap 	#keyboard-configuration \  	#important
-sap 	#kmod \                    	#important
-sap 	#less \                    	#important
-sap 	#libapparmor1 \            	#important
-sap 	#libapt-pkg6.0 \          	#important
-sap 	#libargon2-1 \             	#important
-sap 	#libatm1 \                 	#important
-sap 	#libbsd0 \                 	#important
-sap 	#libcap2 \                 	#important
-sap 	#libcap2-bin \             	#important
-sap 	#libcryptsetup12 \         	#important
-sap 	#libdbus-1-3 \             	#important
-sap 	#libdevmapper1.02.1 \      	#important
-sap 	#libdns-export1109 \       	#important
-sap 	#libelf1 \                 	#important
-sap 	#libestr0 \                	#important
-sap 	#libexpat1 \               	#important
-sap 	#libfastjson4 \            	#important
-sap 	#libffi7 \                 	#important
-sap 	#libfribidi0 \             	#important
-sap 	#libgirepository-1.0-1 \   	#important
-sap 	#libglib2.0-0 \            	#important
-sap 	#libglib2.0-data \         	#important
-sap 	#libgmp10 \                	#important
-sap 	#libgnutls30 \             	#important
-sap 	#libhogweed5 \             	#important
-sap 	#libicu66 \                	#important
-sap 	#libidn2-0 \               	#important
-sap 	#libip4tc2 \               	#important
-sap 	#libisc-export1105 \       	#important
-sap 	#libjson-c4 \              	#important
-sap 	#libkmod2 \                	#important
-sap 	#liblocale-gettext-perl \  	#important
-sap 	#libmagic1 \               	#important
-sap 	#libmagic-mgc \            	#important
-sap 	#libmnl0 \                 	#important
-sap 	#libmpdec2 \               	#important
-sap 	#libnetplan0 \             	#important
-sap 	#libnettle7 \              	#important
-sap 	#libnewt0.52 \             	#important
-sap 	#libnss-systemd \          	#important
-sap 	#libp11-kit0 \             	#important
-sap 	#libpam-cap \             	#important
-sap 	#libpam-systemd \          	#important
-sap 	#libpopt0 \                	#important
-sap 	#libpython3.8-minimal \    	#important
-sap 	#libpython3.8-stdlib \     	#important
-sap 	#libpython3-stdlib \       	#important
-sap 	#libreadline8 \            	#important
-sap 	#libseccomp2 \             	#important
-sap 	#libslang2 \               	#important
-sap 	#libsodium23 \             	#important
-sap 	#libsqlite3-0 \            	#important
-sap 	#libssl1.1 \               	#important
-sap 	#libstdc++6 \              	#important
-sap 	#libtasn1-6 \              	#important
-sap 	#libtext-charwidth-perl \  	#important
-sap 	#libtext-iconv-perl \      	#important
-sap 	#libtext-wrapi18n-perl \   	#important
-sap 	#libunistring2 \           	#important
-sap 	#libxml2 \                 	#important
-sap 	#libxtables12 \            	#important
-sap 	#libyaml-0-2 \             	#important
-sap 	#locales \                 	#important
-sap 	#logrotate \               	#important
-sap 	#lsb-release \             	#important
-sap 	#man-db \                  	#important
-sap 	#mime-support \            	#important
-sap 	nano \                    	#important
-sap 	#netbase \                 	#important
-sap 	#netcat-openbsd \          	#important
-sap 	#netplan.io \              	#important
-sap 	#networkd-dispatcher \     	#important
-sap 	#openssl \                 	#important
-sap 	#python3 \                 	#important
-sap 	#python3.8 \               	#important
-sap 	#python3.8-minimal \       	#important
-sap 	#python3-cffi-backend \    	#important
-sap 	#python3-dbus \            	#important
-sap 	#python3-gi \              	#important
-sap 	#python3-minimal \         	#important
-sap 	#python3-nacl \            	#important
-sap 	#python3-netifaces \       	#important
-sap 	#python3-pkg-resources \   	#important
-sap 	#python3-pymacaroons \     	#important
-sap 	#python3-six \             	#important
-sap 	#python3-yaml \            	#important
-sap 	#readline-common \         	#important
-sap 	#rsyslog \                 	#important
-sap 	#shared-mime-info \        	#important
-sap 	#sudo \                    	#important
-sap 	#systemd \                 	#important
-sap 	#systemd-sysv \            	#important
-sap 	#systemd-timesyncd \       	#important
-sap 	#tzdata \                  	#important
-sap 	ubuntu-advantage-tools \  	#important
-sap 	#ubuntu-keyring \          	#important
-sap 	#ubuntu-minimal \          	#important
-sap 	#ucf \                     	#important
-sap 	#udev \                    	#important
-sap 	vim-common \              	#important
-sap 	vim-tiny \                	#important
-sap 	#whiptail \                	#important
-sap 	#xdg-user-dirs \           	#important
-sap 	#xkb-data \                	#important
-sap 	#xxd \                     	#important
-sap 	#xz-utils			#important
+#sap adduser                  	
+#sap apt                      	
+#sap apt-utils                	
+#sap bsdmainutils             	
+#sap bzip2                    	
+#sap ca-certificates          	
+#sap console-setup            	
+#sap console-setup-linux      	
+#sap cpio                     	
+#sap dbus                     	
+#sap debconf-i18n             	
+#sap distro-info-data         	
+#sap dmidecode                	
+#sap dmsetup                  	
+#sap eject                    	
+#sap file                     	
+#sap gir1.2-glib-2.0          	
+#sap gpgv                     	
+#sap groff-base               	
+#sap info                     	
+#sap init                     	
+#sap install-info             	
+#sap iproute2                 	
+#sap iputils-ping             	
+#sap isc-dhcp-client          	
+#sap isc-dhcp-common          	
+#sap kbd                      	
+#sap keyboard-configuration   	
+#sap kmod                     	
+#sap less                     	
+#sap libapparmor1             	
+#sap libapt-pkg6.0           	
+#sap libargon2-1              	
+#sap libatm1                  	
+#sap libbsd0                  	
+#sap libcap2                  	
+#sap libcap2-bin              	
+#sap libcryptsetup12          	
+#sap libdbus-1-3              	
+#sap libdevmapper1.02.1       	
+#sap libdns-export1109        	
+#sap libelf1                  	
+#sap libestr0                 	
+#sap libexpat1                	
+#sap libfastjson4             	
+#sap libffi7                  	
+#sap libfribidi0              	
+#sap libgirepository-1.0-1    	
+#sap libglib2.0-0             	
+#sap libglib2.0-data          	
+#sap libgmp10                 	
+#sap libgnutls30              	
+#sap libhogweed5              	
+#sap libicu66                 	
+#sap libidn2-0                	
+#sap libip4tc2                	
+#sap libisc-export1105        	
+#sap libjson-c4               	
+#sap libkmod2                 	
+#sap liblocale-gettext-perl   	
+#sap libmagic1                	
+#sap libmagic-mgc             	
+#sap libmnl0                  	
+#sap libmpdec2                	
+#sap libnetplan0              	
+#sap libnettle7               	
+#sap libnewt0.52              	
+#sap libnss-systemd           	
+#sap libp11-kit0              	
+#sap libpam-cap              	
+#sap libpam-systemd           	
+#sap libpopt0                 	
+#sap libpython3.8-minimal     	
+#sap libpython3.8-stdlib      	
+#sap libpython3-stdlib        	
+#sap libreadline8             	
+#sap libseccomp2              	
+#sap libslang2                	
+#sap libsodium23              	
+#sap libsqlite3-0             	
+#sap libssl1.1                	
+#sap libstdc++6               	
+#sap libtasn1-6               	
+#sap libtext-charwidth-perl   	
+#sap libtext-iconv-perl       	
+#sap libtext-wrapi18n-perl    	
+#sap libunistring2            	
+#sap libxml2                  	
+#sap libxtables12             	
+#sap libyaml-0-2              	
+#sap locales                  	
+#sap logrotate                	
+#sap lsb-release              	
+#sap man-db                   	
+#sap mime-support             	
+sap nano                     	
+#sap netbase                  	
+#sap netcat-openbsd           	
+#sap netplan.io               	
+#sap networkd-dispatcher      	
+#sap openssl                  	
+#sap python3                  	
+#sap python3.8                	
+#sap python3.8-minimal        	
+#sap python3-cffi-backend     	
+#sap python3-dbus             	
+#sap python3-gi               	
+#sap python3-minimal          	
+#sap python3-nacl             	
+#sap python3-netifaces        	
+#sap python3-pkg-resources    	
+#sap python3-pymacaroons      	
+#sap python3-six              	
+#sap python3-yaml             	
+#sap readline-common          	
+#sap rsyslog                  	
+#sap shared-mime-info         	
+#sap sudo                     	
+#sap systemd                  	
+#sap systemd-sysv             	
+#sap systemd-timesyncd        	
+#sap tzdata                   	
+sap ubuntu-advantage-tools   	
+#sap ubuntu-keyring           	
+#sap ubuntu-minimal           	
+#sap ucf                      	
+#sap udev                     	
+sap vim-common               	
+sap vim-tiny                 	
+#sap whiptail                 	
+#sap xdg-user-dirs            	
+#sap xkb-data                 	
+#sap xxd                      	
+#sap xz-utils			
