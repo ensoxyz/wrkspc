@@ -1,5 +1,0 @@
-#!
-
-sudo apt install firewalld
-
-
