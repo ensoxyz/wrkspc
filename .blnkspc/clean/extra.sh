@@ -1,3 +1,4 @@
+alias sap="sudo apt purge -y"
 sap account-plugin-facebook 		
 sap account-plugin-flickr 			
 sap account-plugin-jabber  		

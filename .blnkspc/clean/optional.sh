@@ -1,3 +1,4 @@
+alias sap="sudo apt purge -y" 
 #sap accountsservice 			
 #sap acl  					
 #sap acpid  				
