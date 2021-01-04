@@ -1,4 +1,7 @@
-#!
+#!/usr/bin/zsh
+
+# requires network config with external opensense instance
+# preconfigure ufw to work with opensense network config
 
 sudo apt install ufw
 sudo ufw enable

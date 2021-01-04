@@ -1,4 +1,4 @@
-alias sap="sudo apt purge -y" 
+alais sap="sudo apt purge -y" 
 #sap amd64-microcode  	
 sap bash-completion  	
 #sap bc  			

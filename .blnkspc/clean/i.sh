@@ -1,4 +1,5 @@
-#sap adduser                  	
+alais sap="sudo apt purge -y" 
+sap adduser                  	
 #sap apt                      	
 #sap apt-utils                	
 #sap bsdmainutils             	
@@ -93,7 +94,7 @@
 #sap lsb-release              	
 #sap man-db                   	
 #sap mime-support             	
-#sap nano                     	
+sap nano                     	
 #sap netbase                  	
 #sap netcat-openbsd           	
 #sap netplan.io               	
@@ -115,7 +116,7 @@
 #sap readline-common          	
 #sap rsyslog                  	
 #sap shared-mime-info         	
-#sap sudo                     	
+sap sudo                     	
 #sap systemd                  	
 #sap systemd-sysv             	
 #sap systemd-timesyncd        	
@@ -125,7 +126,7 @@
 #sap ubuntu-minimal           	
 #sap ucf                      	
 #sap udev                     	
-#sap vim-common               	
+sap vim-common               	
 #sap vim-tiny                 	
 #sap whiptail                 	
 #sap xdg-user-dirs            	

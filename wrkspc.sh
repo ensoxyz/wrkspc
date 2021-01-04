@@ -1,18 +1,22 @@
-#! /bin/zsh
+#!/usr/bin/zsh
 
+# _/INIT
+source z.sh
 # _/WRKSPC¬
-source blnkspc/blnkspc.zsh
+source blnkspc/blnkspc.sh
 # blnkspc______________________________.
 
-source toolbox/toolbox.zsh
+source toolbox/toolbox.sh
 # toolbox______________________________.
 
-source desktop/desktop.zsh
+source desktop/desktop.sh
 # desktop______________________________.
 
-source wrkbnch/wrkbnch.zsh
+source wrkbnch/wrkbnch.sh
 # wrkbnch______________________________.
 
-source factory/factory.zsh
+source factory/factory.sh
 # factory______________________________.
+
+
 
