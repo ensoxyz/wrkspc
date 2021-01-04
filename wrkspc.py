@@ -1,18 +1,20 @@
-#! /bin/zsh
+#!/usr/local/bin python
+
+import os
 
 # _/WRKSPC¬
-source blnkspc/blnkspc.zsh
+
+import blnkspc/blnkspc.py
 # blnkspc______________________________.
 
-source toolbox/toolbox.zsh
+import toolbox/toolbox.py
 # toolbox______________________________.
 
-source desktop/desktop.zsh
+import desktop/desktop.py
 # desktop______________________________.
 
-source wrkbnch/wrkbnch.zsh
+import wrkbnch/wrkbnch.py
 # wrkbnch______________________________.
 
-source factory/factory.zsh
+import factory/factory.py
 # factory______________________________.
-
