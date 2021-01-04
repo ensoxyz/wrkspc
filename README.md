@@ -1,3 +1,0 @@
-# wrkspc
-
-python / ninja /
