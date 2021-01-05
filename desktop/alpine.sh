@@ -1,10 +1,9 @@
-#!
+#!/usr/bin/zsh
+
+#https://answers.uillinois.edu/uic/page.php?id=94665
 
 # ALPINE MAIL + NEWS
-
 sudo apt install alpine
-
-# alpine
 
 # SETUP IMAP
 # Main>Setup>collectionLists>Add
@@ -19,6 +18,9 @@ sudo apt install alpine
 #    Create Google App Password
 # else 
 #    Google App Password (✓)
+
+#https://myaccount.google.com/security
+#https://answers.uillinois.edu/uic/page.php?id=94665
 
 # Setup>Config
 # smtp.gmail.com:587/tls/user=ceo@enso.xyz (ex: user@domain.ext)
