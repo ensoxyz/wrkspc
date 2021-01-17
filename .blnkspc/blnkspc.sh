@@ -6,6 +6,9 @@ source clean/s.sh # STANDARD
 source clean/o.sh # OPTIONAL
 source clean/e.sh # EXTRA
 
+sudo apt install redis --no-recommends
+
+
 # APPARMOR_____________________.
 source secure/apparmor.sh
 
@@ -17,4 +20,5 @@ source secure/wireguard.sh
 
 # OPENSENSE____________________.
 source secure/opensense.sh
+
 

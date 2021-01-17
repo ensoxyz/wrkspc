@@ -6,7 +6,7 @@
 
 # cargo install deno
 
-# curl -fsSL https://deno.land/x/install/install.sh | sh
+curl -fsSL https://deno.land/x/install/install.sh | sh
 
 export DENO_INSTALL="/root/.deno"
   

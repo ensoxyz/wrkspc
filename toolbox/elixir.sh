@@ -1,4 +1,8 @@
-#!
+#!/usr/bin/sh
+
+
+
+
 
 # Elixir
 # https://elixir-lang.org/install.html
@@ -12,5 +16,9 @@ apt install esl-erlang
 
 apt install elixir
 
-source phoenix.sh
+# PHOENIX
+# https://hexdocs.pm/phoenix/overview.html
 
+mix local.hex
+
+mix archive.install hex phx_new 1.5.5

@@ -1,4 +1,4 @@
-alais sap="sudo apt purge -y" 
+alias sap="sudo apt purge -y" 
 #sap accountsservice 			
 #sap acl  					
 #sap acpid  				
@@ -42,18 +42,7 @@ sap brltty
 #sap cpp-9  				
 #sap cracklib-runtime  			
 #sap crda  				
-sap cups  				
-sap cups-browsed  			
-sap cups-bsd  				
-sap cups-client  				
-sap cups-common  				
-sap cups-core-drivers  			
-sap cups-daemon  				
-sap cups-filters  			
-sap cups-filters-core-drivers  		
-sap cups-ipp-utils  			
-sap cups-ppdc  				
-sap cups-server-common  			
+sap cups cups-browsed cups-bsd cups-client cups-common cups-core-drivers cups-daemon cups-filters cups-filters-core-drivers cups-ipp-utils cups-ppdc cups-server-common  			
 #sap dbus-user-session  			
 #sap dbus-x11  				
 #sap dconf-cli  				
@@ -78,109 +67,16 @@ sap cups-server-common
 #sap evolution-data-server  		
 #sap evolution-data-server-common  	
 #sap file-roller  				
-sap firefox  				
-sap firefox-locale-en  			
+sap firefox firefox-locale-en  			
 #sap fontconfig  				
 #sap fontconfig-config  			
-sap fonts-beng  				
-sap fonts-beng-extra  			
 #sap fonts-dejavu-core  			
-sap fonts-deva  				
-sap fonts-deva-extra  			
-#sap fonts-droid-fallback  		
-sap fonts-freefont-ttf  			
-sap fonts-gargi  				
-sap fonts-gubbi  				
-sap fonts-gujr  				
-sap fonts-gujr-extra  			
-sap fonts-guru  				
-sap fonts-guru-extra  			
-sap fonts-indic  				
-sap fonts-kacst  				
-sap fonts-kacst-one  			
-sap fonts-kalapi  				
-sap fonts-khmeros-core  			
-sap fonts-knda  				
-sap fonts-lao  				
-sap fonts-liberation  			
-sap fonts-liberation2  			
-sap fonts-lklug-sinhala  			
-sap fonts-lohit-beng-assamese  		
-sap fonts-lohit-beng-bengali  		
-sap fonts-lohit-deva  			
-sap fonts-lohit-gujr  			
-sap fonts-lohit-guru  			
-sap fonts-lohit-knda  			
-sap fonts-lohit-mlym  			
-sap fonts-lohit-orya  			
-sap fonts-lohit-taml  			
-sap fonts-lohit-taml-classical  		
-sap fonts-lohit-telu  			
-sap fonts-mlym  				
-sap fonts-nakula 				
-sap fonts-navilu  				
-sap fonts-noto-cjk  			
+#sap fonts-droid-fallback	
 #sap fonts-noto-color-emoji  		
 #sap fonts-noto-mono  			
 #sap fonts-opensymbol  			
-sap fonts-orya  				
-sap fonts-orya-extra  			
-sap fonts-pagul  				
-sap fonts-sahadeva  			
-sap fonts-samyak-deva  			
-sap fonts-samyak-gujr  			
-sap fonts-samyak-mlym  			
-sap fonts-samyak-taml  			
-sap fonts-sarai  				
-sap fonts-sil-abyssinica  			
-sap fonts-sil-padauk  			
-sap fonts-smc  				
-sap fonts-smc-anjalioldlipi  		
-sap fonts-smc-chilanka  			
-sap fonts-smc-dyuthi  			
-sap fonts-smc-gayathri  			
-sap fonts-smc-karumbi  			
-sap fonts-smc-keraleeyam  			
-sap fonts-smc-manjari  			
-sap fonts-smc-meera  			
-sap fonts-smc-rachana  			
-sap fonts-smc-raghumalayalamsans  		
-sap fonts-smc-suruma  			
-sap fonts-smc-uroob  			
-sap fonts-taml  				
-sap fonts-telu  				
-sap fonts-telu-extra  			
-sap fonts-thai-tlwg  			
-sap fonts-tibetan-machine  		
-sap fonts-tlwg-garuda  			
-sap fonts-tlwg-garuda-ttf  		
-sap fonts-tlwg-kinnari  			
-sap fonts-tlwg-kinnari-ttf  		
-sap fonts-tlwg-laksaman  			
-sap fonts-tlwg-laksaman-ttf  		
-sap fonts-tlwg-loma  			
-sap fonts-tlwg-loma-ttf  			
-sap fonts-tlwg-mono  			
-sap fonts-tlwg-mono-ttf  			
-sap fonts-tlwg-norasi  			
-sap fonts-tlwg-norasi-ttf  		
-sap fonts-tlwg-purisa  			
-sap fonts-tlwg-purisa-ttf  		
-sap fonts-tlwg-sawasdee  			
-sap fonts-tlwg-sawasdee-ttf  		
-sap fonts-tlwg-typewriter  		
-sap fonts-tlwg-typewriter-ttf  		
-sap fonts-tlwg-typist  			
-sap fonts-tlwg-typist-ttf  		
-sap fonts-tlwg-typo  			
-sap fonts-tlwg-typo-ttf  			
-sap fonts-tlwg-umpush  			
-sap fonts-tlwg-umpush-ttf  		
-sap fonts-tlwg-waree  			
-sap fonts-tlwg-waree-ttf  			
+sap fonts-beng fonts-beng-extra fonts-deva fonts-deva-extra fonts-freefont-ttf fonts-gargi fonts-gubbi fonts-gujr fonts-gujr-extra fonts-guru fonts-guru-extra fonts-indic fonts-kacst fonts-kacst-one fonts-kalapi fonts-khmeros-core fonts-knda fonts-lao fonts-liberation fonts-liberation2 fonts-lklug-sinhala fonts-lohit-beng-assamese fonts-lohit-beng-bengali fonts-lohit-deva fonts-lohit-gujr fonts-lohit-guru fonts-lohit-knda fonts-lohit-mlym fonts-lohit-orya fonts-lohit-taml fonts-lohit-taml-classical fonts-lohit-telu fonts-mlym fonts-nakula fonts-navilu fonts-noto-cjk fonts-orya fonts-orya-extra fonts-pagul fonts-sahadeva fonts-samyak-deva fonts-samyak-gujr fonts-samyak-mlym fonts-samyak-taml fonts-sarai fonts-sil-abyssinica fonts-sil-padauk fonts-smc fonts-smc-anjalioldlipi fonts-smc-chilanka fonts-smc-dyuthi fonts-smc-gayathri fonts-smc-karumbi fonts-smc-keraleeyam fonts-smc-manjari fonts-smc-meera fonts-smc-rachana fonts-smc-raghumalayalamsans fonts-smc-suruma fonts-smc-uroob fonts-taml fonts-telu fonts-telu-extra fonts-thai-tlwg fonts-tibetan-machine fonts-tlwg-garuda fonts-tlwg-garuda-ttf fonts-tlwg-kinnari fonts-tlwg-kinnari-ttf fonts-tlwg-laksaman fonts-tlwg-laksaman-ttf fonts-tlwg-loma fonts-tlwg-loma-ttf fonts-tlwg-mono fonts-tlwg-mono-ttf fonts-tlwg-norasi fonts-tlwg-norasi-ttf fonts-tlwg-purisa fonts-tlwg-purisa-ttf fonts-tlwg-sawasdee fonts-tlwg-sawasdee-ttf fonts-tlwg-typewriter fonts-tlwg-typewriter-ttf fonts-tlwg-typist fonts-tlwg-typist-ttf fonts-tlwg-typo fonts-tlwg-typo-ttf fonts-tlwg-umpush fonts-tlwg-umpush-ttf fonts-tlwg-waree fonts-tlwg-waree-ttf fonts-urw-base35 fonts-yrsa-rasa  			
 #sap fonts-ubuntu  				
-sap fonts-urw-base35  			
-sap fonts-yrsa-rasa  			
 #sap foomatic-db-compressed-ppds  		
 #sap fprintd  				
 #sap friendly-recovery  			
@@ -193,8 +89,7 @@ sap gamemode
 #sap gdbserver  				
 #sap gdisk  				
 #sap gdm3  				
-sap gedit  				
-sap gedit-common  				
+sap gedit gedit-common  				
 #sap genisoimage  				
 #sap geoclue-2.0  				
 #sap ghostscript  				
@@ -240,49 +135,17 @@ sap gedit-common
 #sap gir1.2-vte-2.91  			
 #sap gir1.2-webkit2-4.0  			
 #sap gir1.2-wnck-3.0  			
-sap git  					
-sap git-man  				
+sap git git-man  				
 #sap gjs  					
 #sap gkbd-capplet  			
 #sap glib-networking  			
 #sap glib-networking-common  		
 #sap glib-networking-services  		
-sap gnome-accessibility-themes  		
-sap gnome-bluetooth  			
-sap gnome-calculator  			
-sap gnome-characters  			
-sap gnome-control-center  			
-sap gnome-control-center-data  		
-sap gnome-control-center-faces  		
-sap gnome-desktop3-data  			
-sap gnome-disk-utility  			
-sap gnome-font-viewer  			
-sap gnome-getting-started-docs  		
-sap gnome-initial-setup  			
-sap gnome-keyring  			
-sap gnome-keyring-pkcs11  			
-sap gnome-logs  				
-sap gnome-menus  				
-sap gnome-online-accounts  		
-sap gnome-power-manager  			
-sap gnome-screenshot  			
-sap gnome-session-bin  			
-sap gnome-session-canberra  		
-sap gnome-session-common  			
-sap gnome-settings-daemon  		
-sap gnome-settings-daemon-common  		
-sap gnome-shell  				
-sap gnome-shell-common  			
-sap gnome-shell-extension-appindicator  	
-sap gnome-shell-extension-desktop-icons 	
-sap gnome-shell-extension-ubuntu-dock  	
-sap gnome-startup-applications  		
-sap gnome-system-monitor  			
-sap gnome-terminal  			
-sap gnome-terminal-data  			
-sap gnome-themes-extra  			
-sap gnome-themes-extra-data  		
-sap gnome-user-docs  			
+
+sap gnome-accessibility-themes gnome-calculator gnome-characters gnome-font-viewer gnome-online-accounts gnome-screenshot gnome-terminal gnome-terminal-data gnome-themes-extra gnome-themes-extra-data gnome-user-docs gnome-getting-started-docs
+
+#sap gnome-bluetooth gnome-control-center gnome-control-center-data gnome-control-center-faces gnome-desktop3-data gnome-disk-utility gnome-initial-setup gnome-keyring gnome-keyring-pkcs11 gnome-logs gnome-menus gnome-power-manager gnome-session-bin gnome-session-canberra gnome-session-common gnome-settings-daemon gnome-settings-daemon-common gnome-shell gnome-shell-common gnome-shell-extension-appindicator gnome-shell-extension-desktop-icons gnome-shell-extension-ubuntu-dock gnome-startup-applications gnome-system-monitor  			
+
 #sap gnupg  				
 #sap gnupg-l10n  				
 #sap gnupg-utils  				
@@ -429,9 +292,7 @@ sap gnome-user-docs
 #sap libcolorhug2  			
 #sap libcrack2  				
 #sap libcue2  				
-sap libcups2  				
-sap libcupsfilters1  			
-sap libcupsimage2  			
+sap libcups2 libcupsfilters1 libcupsimage2  			
 #sap libcurl3-gnutls  			
 #sap libdaemon0  				
 #sap libdata-dump-perl  			
@@ -754,9 +615,7 @@ sap libcupsimage2
 #sap librygel-renderer-2.6-2  		
 #sap librygel-server-2.6-2  		
 #sap libsamplerate0  			
-sap libsane  				
-sap libsane-common  			
-sap libsane-hpaio  			
+sap libsane libsane-common libsane-hpaio  			
 #sap libsasl2-modules  			
 #sap libsbc1  				
 #sap libsecret-1-0  			
@@ -982,17 +841,7 @@ sap openvpn
 #sap powermgmt-base  			
 #sap ppp  					
 #sap pptp-linux  				
-sap printer-driver-brlaser  		
-sap printer-driver-c2esp  		
-sap printer-driver-foo2zjs  		
-sap printer-driver-foo2zjs-common  	
-sap printer-driver-m2300w  		
-sap printer-driver-min12xxw  		
-sap printer-driver-pnm2ppa  		
-sap printer-driver-ptouch  		
-sap printer-driver-pxljr  		
-sap printer-driver-sag-gdi  		
-sap printer-driver-splix  			
+sap printer-driver-brlaser printer-driver-c2esp printer-driver-foo2zjs printer-driver-foo2zjs-common printer-driver-m2300w printer-driver-min12xxw printer-driver-pnm2ppa printer-driver-ptouch printer-driver-pxljr printer-driver-sag-gdi printer-driver-splix  			
 #sap psmisc  				
 #sap publicsuffix  			
 #sap pulseaudio  				
@@ -1009,8 +858,7 @@ sap printer-driver-splix
 #sap python3-colorama  			
 #sap python3-commandnotfound  		
 #sap python3-cryptography  		
-sap python3-cups  			
-sap python3-cupshelpers  			
+sap python3-cups python3-cupshelpers  			
 #sap python3-dateutil  			
 #sap python3-debconf  			
 #sap python3-debian  			
@@ -1076,18 +924,14 @@ sap snapd
 #sap ssl-cert  				
 #sap strace  				
 #sap switcheroo-control  			
-sap system-config-printer  		
-sap system-config-printer-common  	
-sap system-config-printer-udev  		
+sap system-config-printer system-config-printer-common system-config-printer-udev  		
 #sap tcpdump  				
 #sap thermald  				
 #sap tpm-udev  				
-sap tracker  				
-sap tracker-extract  			
-sap tracker-miner-fs  			
-sap ubuntu-desktop  			
+sap tracker tracker-extract tracker-miner-fs  			
+#sap ubuntu-desktop  			
 #sap ubuntu-desktop-minimal 		
-#sap ubuntu-docs  				
+sap ubuntu-docs  				
 #sap ubuntu-drivers-common  		
 #sap ubuntu-mono  				
 #sap ubuntu-release-upgrader-core  	
@@ -1095,8 +939,7 @@ sap ubuntu-desktop
 #sap ubuntu-report  			
 #sap ubuntu-session  			
 #sap ubuntu-settings  			
-sap ubuntu-wallpapers  			
-sap ubuntu-wallpapers-focal  		
+sap ubuntu-wallpapers ubuntu-wallpapers-focal  		
 #sap udisks2  				
 sap ufw  					
 #sap unattended-upgrades  			
@@ -1119,56 +962,17 @@ sap ufw
 #sap wireless-regdb  			
 #sap wireless-tools  			
 #sap wpasupplicant  			
-sap x11-apps  				
-sap x11-common  				
-sap x11-session-utils  			
-sap x11-utils  				
-sap x11-xkb-utils  			
-sap x11-xserver-utils  			
-sap xauth  				
-sap xbitmaps  				
-sap xbrlapi  				
-sap xcursor-themes  			
+sap x11-apps x11-common x11-session-utils x11-utils x11-xkb-utils x11-xserver-utils xauth xbitmaps xbrlapi xcursor-themes  		
 #sap xdg-dbus-proxy  			
 #sap xdg-desktop-portal  			
 #sap xdg-desktop-portal-gtk  		
 #sap xdg-user-dirs-gtk  			
 #sap xdg-utils  				
-sap xfonts-base  				
-sap xfonts-encodings  			
-sap xfonts-scalable  			
-sap xfonts-utils  				
-sap xinit  				
-sap xinput  				
+sap xfonts-base xfonts-encodings xfonts-scalable xfonts-utils xinit xinput  				
 #sap xml-core  				
-sap xorg  					
-sap xorg-docs-core  			
-sap xserver-common  			
-sap xserver-xephyr  			
-sap xserver-xorg  				
-sap xserver-xorg-core  			
-sap xserver-xorg-input-all  		
-sap xserver-xorg-input-libinput  		
-sap xserver-xorg-input-wacom  		
-sap xserver-xorg-legacy  			
-sap xserver-xorg-video-all  		
-sap xserver-xorg-video-amdgpu  		
-sap xserver-xorg-video-ati  		
-sap xserver-xorg-video-fbdev  		
-sap xserver-xorg-video-intel  		
-sap xserver-xorg-video-nouveau  		
-sap xserver-xorg-video-qxl  		
-sap xserver-xorg-video-radeon  		
-sap xserver-xorg-video-vesa  		
-sap xserver-xorg-video-vmware  		
-sap xul-ext-ubufox  			
+sap xorg xorg-docs-core xserver-common xserver-xephyr xserver-xorg xserver-xorg-core xserver-xorg-input-all xserver-xorg-input-libinput xserver-xorg-input-wacom xserver-xorg-legacy xserver-xorg-video-all xserver-xorg-video-amdgpu xserver-xorg-video-ati xserver-xorg-video-fbdev xserver-xorg-video-intel xserver-xorg-video-nouveau xserver-xorg-video-qxl xserver-xorg-video-radeon xserver-xorg-video-vesa xserver-xorg-video-vmware xul-ext-ubufox  			
 #sap xwayland  				
-sap yaru-theme-gnome-shell  		
-sap yaru-theme-gtk  			
-sap yaru-theme-icon  			
-sap yaru-theme-sound  			
-sap yelp  					
-sap yelp-xsl  				
+sap yaru-theme-gnome-shell yaru-theme-gtk yaru-theme-icon yaru-theme-sound yelp yelp-xsl  				
 #sap zenity  				
 #sap zenity-common  			
 #sap zfs-initramfs  			
